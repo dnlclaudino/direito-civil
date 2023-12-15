@@ -15,56 +15,15 @@ GANGLIANO, Pablo Stolze; FILHO, Rodolfo Pamplona. Novo curso de direito civil: p
 1. Objetivo do capítulo  
 2. Noções propedêuticas de Direito  
 3. Fontes do Direito  
-  3.1 Classificação das fontes  
-  3.2 Fontes do Direito em espécie  
-  3.2.1 Legislação  
-    - CARACTERÍSTICAS gerais das leis
-      - Legitimidade
-      - Generalidade
-      - Abstração
-      - Obrigatoriedade
-      - sanção
-      - Registro Escrito
-      - Permanência
-    - CLASSIFICAÇÃO das leis
-      - Quanto a IMPERATIVIDADE / OBRIGATORIEDADE
-        - Leis impositivas
-        - Leis dispositivas
-      - Quanto a SANÇÃO INSTITUCIONALIZADA ou AUTORIZAMENTO
-        - Leis Perfeitas
-        - Leis Mais que Perfeitas
-        - Leis Menos que Perfeitas
-        - Leis Imperfeitas
-      - Quanto a ORIGEM
-        - Leis federais
-        - Leis Estaduais
-        - Leis Municipais
-      - Quanto a DURAÇÃO
-        - Leis permanentes
-        - Leis temporárias
-      - Quanto a ALCANCE
-        - leis gerais
-        - leis singulares
-        - Leis especiais
-        - Leis excepcionais
-      - Quanto a HIERARQUIA
-        - Constituição
-        - Leis Infraconstitucionais
-          - Lei complementares
-          - Leis ordinárias
-        - Decretos Regulamentares
-        - Decreto-Lei
-        - Medidas provisórias
-        - Resolução do Poder Legislativo
-        - Normas Internas (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
-  3.2.2 Costume  
-  3.2.3 Jurisprudência  
-  3.2.4 Doutrina  
-  3.2.5 Analogia  
-  3.2.6 Princípios gerais do Direito  
-  3.2.1 Equidade
-    - Decisão COM equidade  
-    - Decisão POR equidade  
+3.1 Classificação das fontes  
+3.2 Fontes do Direito em espécie  
+3.2.1 Legislação (CARACTERÍSTICAS gerais das leis / CLASSIFICAÇÃO das leis)
+3.2.2 Costume  
+3.2.3 Jurisprudência  
+3.2.4 Doutrina  
+3.2.5 Analogia  
+3.2.6 Princípios gerais do Direito  
+3.2.1 Equidade (Decisão COM equidade/Decisão POR equidade)
 4. Algumas palavras sobre os sistemas jurídicos (Civil Law e Common Law)  
 5. A dicotomia entre o Direito público e Direito privado e a taxonomia do Direito Civil  
 6. Conceito doutrinário e histórico do Direito Civil  
