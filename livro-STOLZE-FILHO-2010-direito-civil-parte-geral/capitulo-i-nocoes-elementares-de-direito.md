@@ -2,7 +2,7 @@
 
 ## Objetivos do capítulo 
 
-- Ao iniciarmos os estudos do Direito Civil  é imprescindível o conhecimento de **PREMISSAS GERAIS** e **CONSIDERAÇÕES PROPEDÊUTICAS** da ciëncia jurídica:
+- Ao iniciarmos os estudos do Direito Civil  é imprescindível o conhecimento de **PREMISSAS GERAIS** e **CONSIDERAÇÕES PROPEDÊUTICAS** da ciência jurídica:
   - Noções e acepções da palavra "direito";
     - Etimologia;
     - Conceito genérico;
@@ -16,7 +16,7 @@
 ### Etimologia da palavra "direito"
 
 - No Direito Romano:
-  - A palavra utilizada para expressar o que hodirnamente se entende por **DIREITO** era **JUS** ou **JURIS**;
+  - A palavra utilizada para expressar o que hodiernamente se entende por **DIREITO** era **JUS** ou **JURIS**;
     - A raiz de JUS e JURIS é **JU** (raiz sânscrita)
   - JUS ou JURIS simbolizava:
     - O "JUGO" (submissão, obediência, autoridade, domínio, sujeição);
@@ -32,9 +32,9 @@
   - A **gênese** do Direito;
   - O **papel social** do Direito
 - Para **Monteiro (2000, p. 1)**[^MONTEIRO-2000]:
-  - Ainda procuram os juristas à procura do seu conceito de Direito. Tão deficientemente como a geometria define o que seja o espaço, assim acontece igualmente com quem define o Direito.
-  - A definição do Direito parece questão e problema fundamental relacionados com a Filosofia do Direito;
-  - O jurista adota a definição do filósofo do Direito Gustav Radbruch[^GODOY-2014], o Direito é "O conjunto de **NORMAS**, **gerais** e **positivas**, que regulam a vida social."
+  - Os juristas ainda estão à procura do conceito de Direito. Tão deficientemente como a **geometria** define o que seja o **espaço**, assim acontece igualmente **com quem define** o **Direito**.
+  - A definição do Direito parece questão e problema fundamental relacionados com a **Filosofia do Direito**;
+  - O jurista adota a definição do filósofo do Direito **Gustav Radbruch**[^GODOY-2014], o Direito é "O conjunto de **NORMAS**, **gerais** e **positivas**, que regulam a vida social."
 - O **PRIMEIRO PASSO** para entender o que é o Direito é entender:
   - Sua **CARACTERÍSTICA** essencialmente **humana**;
   - Que ele é um **INSTRUMENTO** para o **CONVÍVIO SOCIAL**;
@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-- **QUATRO ASPECTOS FUNDAMENTAIS** da DEFINIÇÃO DA PALAVRA "DIREITO", de acordo com a definições acima dos autores do livro (PABLO STOLZE GANGLIANO e RODOLFO PAMPLONA FILHO):
+- **QUATRO ASPECTOS FUNDAMENTAIS** da **DEFINIÇÃO DA PALAVRA "DIREITO"**, de acordo com a definições acima dos autores do livro (PABLO STOLZE GANGLIANO e RODOLFO PAMPLONA FILHO):
   - O aspecto da _NORMA AGENDI_:
     - Relacionado com **o conjunto de normas sociais**
   - O aspecto da _FACULTAS AGENDI_
@@ -87,9 +87,10 @@
   - O aspecto da SANÇÃO:
     - Relacionado com a expressão "(...) **SANCIONADAS** pela força do **Estado** ou dos **grupos intermediários**."
 
-- **OUTRAS ACEPÇÕES** da **palavra Direito**:
-    - A palavra "direito" é **PLURISSIGNIFICATIVA**;
-  - Para os autores, a expressáo normalmente utilizada "**classificações do direito**" não parece adequada, pois:
+#### OUTRAS ACEPÇÕES DA PALAVRA DIREITO
+
+  - A palavra "direito" é **PLURISSIGNIFICATIVA**;
+  - Para os autores, a expressão normalmente utilizada "**classificações do direito**" não parece adequada, pois:
     - Não trata-se de **formas diferente de direito**;
     - Trata-se da **diversidade de denominações** da **palavra "direito"**;
 
@@ -132,14 +133,28 @@
       - Se aplica a **LEI LOCAL (do Estado)**;
       - Se aplica a **LEI DE UM ESTADO ESTRANGEIRO**;
 
-##### DIREITO PÚBLICO E DIREITO PROVADO
+##### DIREITO PÚBLICO E DIREITO PRIVADO
 
 - Será discutido mais adiante, no capítulo, em item reservado.
 
-## Direito e Moral
+## Direito, Ética e Moral
+
+#### O DIREITO E A ÉTICA
+
+- Para Carnelutti (1999, p. 131)[^CARNELUTTI-1999]:
+  - Frequentemente, o **Direito** <u>representa</u> um **MÍNIMO ÉTICO**;
+  - A representação da Ética interpenetra em parte o Direito;
+  - Existem regras éticas cuja observância é <u>mais ou menos necessária</u> a **MANUTENÇÃO DA PAZ**;
+  - Nem todas as **REGRAS ÉTICAS** se presta a serem impostas pela **FORÇA** (pelo Direito);
+  - **DISTINÇÃO** entre **Direito Natural** e **Ética**: <span style="background-color:yellow"><b> O Direito Natural é a parte da Ética que pode ser transportada para o Direito Positivo</b></span>;
+  - O **PROGRESSO DO DIREITO** é <u>INVERSAMENTE PROPORCIONAL</u> à distância entre o **Direito** e a **Ética** (**RECEPTIVIDADE ÉTICA DO DIREITO POSITIVO**);
+
+#### O DIREITO E A MORAL
 
 - Não se pode confundir Direito e Moral;
-- Embora não se confundam, a Moral é considerada e utilizada para **VALIDADE** de **atos** e **negócios jurídicos**;
+- A **Moral** tem um campo de ação muito **mais amplo** que o **Direito**;
+- Do **PONTO DE VISTA IDEAL**: O **Norte ideológico** é que a **Moral** e o **Direito** <u>se aproximem</u> o máximo possível;
+- Embora não se confundam, a **Moral** é considerada e utilizada para **VALIDADE** de **atos** e **negócios jurídicos**;
 - Existe um **ELEMENTO COMUM** entre o **Direito** e a **Moral**: a **PROPENSÃO HUMANA EM REALIZAR <u>VALORES</u>**;
 
 Na lição de Perelman (1996, p. 298): [^PERELMAN-1996]
@@ -147,9 +162,15 @@ Na lição de Perelman (1996, p. 298): [^PERELMAN-1996]
 |Termo|Alcance|
 |:---|:---|
 |**Direito**|- Rege comportamento exterior;<br>- Estabelece CORRELAÇÃO entre direitos e obrigações;<br>- Estabelece obrigações **SANCIONADAS**. <u>PELO PODER PÚBLICO</u>|
-|**Moral**|- Enfatiza a INTENÇÃO;<br>- Prescrevem **DEVERES** que não dão origem a **DIREITOS SUBJETIVOS**;<br>- Estabelece **SANÇÕES ORGANIZADAS**. |
+|**Moral**|- Enfatiza a INTENÇÃO;<br>- Prescrevem **DEVERES** que não dão origem a **DIREITOS SUBJETIVOS**;<br>- Estabelece **SANÇÕES ORGANIZADAS**.|
 
-
+- Para Machado Neto (1963, p. 204-205)[^MACHADO-1963]:
+  - Existem uma RELAÇÃO GENÉTICA entre a Moral e o Direito:
+    - Uma **sociedade** passa a conferir **exigibilidade** e **sanção institucionalizada** a toda a **exigência Moral** que tenha se tornado:
+      - Essencial à **vida do grupo**;
+      - Essencial ao **equilíbrio do grupo**;
+    - Geralmente, **o que é proibido pela ordem jurídica** é a atribuição de **exigibilidade** que a sociedade confere àquele **mínimo de moral** que ela considera **imprescindível à sua sobrevivência** (transposição dos **costumes éticos** para **órbita do jurídico**);
+  - Um costume seria apenas um
 
 ## Direito e Poder
 
@@ -220,3 +241,7 @@ Na lição de Perelman (1996, p. 298): [^PERELMAN-1996]
 [^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/ Acesso em: 16 dez. 2023
 
 [^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
+
+[^CARNELUTTI-1999]: CARNELUTTI, Francesco. Teoria Geral do Direito. São Paulo: Lejus, 1999.
+
+[^MACHADO-1963]: MACHADO NETO, Antônio Luiz. Introdução à Ciência do Direito (Sociologia Jurídica). São Paulo: Saraiva, 1963. v. 2.
