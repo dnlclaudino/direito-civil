@@ -328,7 +328,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
 #### A LEI
 
-- A expressão "**LEGISLAÇÃO**" é **gêneno** de que derivam várias **espécies**;
+- A expressão "**LEGISLAÇÃO**" é **gênero** de que derivam várias **espécies**;
 - A **LEI**:
   - É a mais importante fonte do ORDENAMENTO POSITIVO e do Direito brasileiro;
   - É onde encontra-se <u>TODA A</u> ESPERANÇA e EXPECTAVIDA de **SEGURANÇA** e **ESTABILIDADE** que se espera de um **SISTEMA POSITIVADO**; 
@@ -433,32 +433,11 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   </tr>
 </table>
 
-#### OS COSTUMES
-
-### Fontes INDIRETAS, SECUNDÁRIAS ou MEDIATAS do Direito
-
-- A analogia:
-- Os costumes:
-- Os princípios gerais de direito:
-
-### Fontes do Direito em espécie  
-
-#### LEGISLAÇÃO
-
-#### CARACTERÍSTICAS GERAIS DAS LEIS
-
-- Legitimidade
-- Generalidade
-- Abstração
-- Obrigatoriedade
-- Sanção
-- Registro Escrito
-- Permanência
-
 #### CLASSIFICAÇÃO DAS LEIS
 
 - Quanto a IMPERATIVIDADE / OBRIGATORIEDADE
-  - Leis impositivas
+  - Leis impositivas / Cogentes:
+    - Estabelecem principios 
   - Leis dispositivas
 - Quanto a SANÇÃO INSTITUCIONALIZADA ou AUTORIZAMENTO
   - Leis Perfeitas
@@ -487,6 +466,15 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
         - Medidas provisórias
         - Resolução do Poder Legislativo
         - Normas Internas (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
+
+#### OS COSTUMES
+
+### Fontes INDIRETAS, SECUNDÁRIAS ou MEDIATAS do Direito
+
+- A analogia:
+- Os costumes:
+- Os princípios gerais de direito:
+
 
 ### Costume  
 ### Jurisprudência  
