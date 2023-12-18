@@ -1,4 +1,25 @@
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/direito-civil#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/direito-civil#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+      </a>
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 # Capítulo I - Noções Elementares de Direito
+
 
 ## Objetivos do capítulo 
 
@@ -237,7 +258,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   - **SE ESTABELECEM** as normas jurídicas;
 - <span style="background-color: yellow">**FONTES** DO DIREITO são **INSTÂNCIAS DE MANIFESTAÇÃO LEGISLATIVA**</span>;
 
-#### Lei de Introdução ao Código Civil (Decreto-Lei 4.657/1942)
+#### As forntes do Direito e a Lei de Introdução ao Código Civil (Decreto-Lei 4.657/1942)
 
 > Art. 4º <u>**Quando**</u> a <u>lei for omissa</u>, o juli decidirá o caso de acordo com a **analogia**, os **costumes** e os **princípios gerais de direito**;
 > <p style="text-align: right"><a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657compilado.htm">Decreto-Lei 4.657/1942</a> (LICC)</p>
@@ -258,17 +279,161 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
         - DIREITO COMPARADO;
         - DIREITO COMUM;
 
+#### As fontes do Direito e a Consolidação das Leis do Trabalho
+
+- Ainda temos a situação de **determinadas leis** que **admitem EXPRESSAMENTE** outras **fontes do Direito**, como por exemplo:
+  
+> <p style="text-align:justify">Art. 8º As <u>autoridades administrativas</u> e a <u>Justiça do Trabalho</u>, na <u>falta de disposições</u> <b>legais</b>  ou <b>contratuais</b>, decidirão, conforme o caso, pela <b>jurisprudência</b> , por <b>analogia</b> , por <b>equidade</b> , e <b>outros princícpios</b>  e <b>normas gerais</b>  de direito, <u>principalmente do Direito do Trabalho</u>, e, ainda, de acordo com os <b>usos e costumes</b> , o <b>direito comparado</b> , mas sempre de <u>maneira que</u> nenhum <u>interesse de classe</u> ou <u>particular</u> prevaleça sobre o <u>interesse público</u>. (<i>griffo nosso</i>)</p>
+> <p style="text-align:right"><a href="">Consolidação das Leis do Trabalho (CLT)</a></p>
+
 - A **TEORIA DAS FONTES DO DIREITO** é um dos **INSTRUMENTOS PRIMORDIAIS** para
   - **REGULAR o APARECIMENTO** DE NORMAS DE COMPORTAMENTO (contínuo e plural)
   - **NÃO PERDER DE VISTA** a **SEGURANÇA** e a **CERTEZA** das **RELAÇÕES JURÍDICAS**
-- A **CLASSIFICAÇÃO** das **FONTES DO DIREITO** toma as características de  **SEGURANÇA** e **CERTEZA** para o estabelecimento de uma HIERARQUIA DE PREVALÊNCIA (qual vem primeiro) no ordenamento jurídico;
+- A **TEORIA DAS FORNTES DO DIREITO** é um dos instrumentos primordiais para:
+  - Regular o aparecimento contínuo e plural de normas jurídicas (normas de comportamento);
+  - Não perdermos de vista a segunraça e a certeza das relações jurídicas;
+- **QUANDO SE AFIRMA** que a **LEI** é a **FONTE PRIMORDIAL** do DIREITO BRASILEIRO:
+  - Se afirma que **TODA NORMA** que **SE REVESTE DESSA CARACTERÍSTICA (LEI)** <u>**DEVE SER**</u> considerada como pertencente ao <u>ORDENAMENTO JURÍDICO</u>.
 
-## Classificação das fontes  
+- A **CLASSIFICAÇÃO** das **FONTES DO DIREITO** toma as características de  **SEGURANÇA** e **CERTEZA** para o estabelecimento de uma **HIERARQUIA DE PREVALÊNCIA** (qual vem primeiro) no ordenamento jurídico;
+
+
+
+## Classificação das Fontes do Direito
+
+- A classificação das fontes de direito depende de **CRITÉRIO METODOLÓGICO** adotado;
+
+- As fontes do Direito se classificam em:
+  - **DIRETAS**:
+    - Lei (fonte primordial do Direito brasileiro); e
+    - Costumes (fonte de diversas normas)
+  - **INDIRETAS**: 
+    - Analogia;
+    - Principios Gerais do Direito;
+    - OUTRAS FONTES auxiliares de interpretação:
+      - Jurisprudência
+      - Doutrina
+      - Equidade
+  - **MATERIAIS**:
+    - Realidade social;
+    - Valores que o Direito busca REALIZAR, PROTEGER, GARANTIR, etc.
+  - **HISTÓRICAS**:
+    - Corpus Juris Civilis;
+    - Direito Romano (**FONTE MAIS IMPORTANTE**);
+    - Lei das XII Tábuas
+    - Magna Carta inglesa
+    - etc.
 
 ### Fontes DIRETAS, PRIMÁRIAS ou IMEDIATAS do Direito
 
-- A LEI:
-- Os COSTUMES:
+#### A LEI
+
+- A expressão "**LEGISLAÇÃO**" é **gêneno** de que derivam várias **espécies**;
+- A **LEI**:
+  - É a mais importante fonte do ORDENAMENTO POSITIVO e do Direito brasileiro;
+  - É onde encontra-se <u>TODA A</u> ESPERANÇA e EXPECTAVIDA de **SEGURANÇA** e **ESTABILIDADE** que se espera de um **SISTEMA POSITIVADO**; 
+- Para **Venosa (2001, p. 33)**[^VENOSA-2001]:
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE É LEI ?</b></p>
+      A <b>LEI</b> é:
+       <ul>
+         <li> <b>REGRA GERAL</b> de Direito;</li>
+         <li> <b>ABASTRATA</b>;</li>
+         <li> Dotada de <b>SANÇÃO</b>;</li>
+         <li> Expressa pela vontade da <b>AUTORIDADE COMPETENTE</b>;</li>
+         <li> De cunho <b>OBRIGATÓRIO</b>;</li>
+         <li> De forma <b>ESCRITA</b>;</li>
+       </ul>
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+       <b>Verifique</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>QUAIS AS <u>CARACTERÍSTICAS BÁSICAS</u> DA <u>LEI</u>?</b></p>
+       São CARACTERÍSTICAS BÁSICAS da <b>LEI</b>:
+       <ul>
+         <li><b>LEGITIMIDADE</b> :</li>
+         <ul>
+           <li>Deve ser elaborada por autoridade competente (aspecto formal);</li>
+           <li>A <b>LEI</b> :</li>
+           <ul>
+            <li>É <b>ATO LEGISLATIVO</b>  emanado dos <b>ÓRGÃOS DE REPRESENTAÇÃO POPULAR</b> ;</li>
+            <li>Elaborado em conformidade com o <b>PROCESSO LEGISLATIVO</b>  previsto na <b>CONSTITUIÇÃO</b>;</li>
+           </ul>
+         </ul>
+         <li><b>FORMA ESCRITA</b> : Também denominado <b>registro escrito</b>, visa a garantia de maior estabilidade das relações jurídicas, necessitando ainda de <b>publicação oficial</b></li>
+         <li><b>GENERALIDADE</b> : Deve ser dirigida a um <b><u>número indeterminado de pessoas</b></u>;</li>
+         <li><b>ABSTRATIVIDADE</b> :</li>
+         <ul>
+           <li>Deve abranger, da forma mais generica possível, situações futuras;</li>
+           <li>Busca referir-se a um maior número de situações possíveis (<u><b>hipóteses</b></u> concebidas <u><b>idealmente</b></u>);</li>
+           <li>Dirige-se para normalmente para o futuro e raramente para o passado;</li>
+         </ul>
+         <li><b>OBRIGATORIEDADE</b> : Refere-se a sua imposição imperativamente, sob pena de sanção. A ausência da obrigatoriedade da lei seria a sua própria desmoralização.</li>
+         <li><b>SANÇÃO</b> :</li>
+          <ul>
+            <li>É a consequência para o <b>DESCUMPRIMENTO</b> de <b>dever jurídico</b> aplicada de maneira institucionalizada;</li>
+            <li>Decorre não apenas da lei em si, mas do <b>PRÓPRIO ORDENAMENTO JURÍDICO;</b></li>
+          </ul> 
+         <li><b>PERMANÊNCIA</b> : Uma lei só deixa de existir:</li>
+         <ul>
+           <li>Via de regra, quando outra lei a REVOGAR, expressa ou tacitamente;</li>
+           <li>Quando seu TEMPO DE VIGÊNCIA for EXPRESSAMENTE mencionado e expirado</li>
+         </ul>
+       </ul>
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+       <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>LEI SINGULAR</b></p>
+      É a <b>LEI</b> que:
+       <ul>
+         <li>É direcionada a uma pessoa especificamente;</li>
+         <li>Somente pode ser considerada lei em uma <u><b>concepção muito mais ampla da palavra (LEI)</b></u></li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+       <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>LEI TEMPORÁRIA</b></p>
+      É a <b>LEI</b> que:
+       <ul>
+         <li>Possui <b>VIGÊNCIA DETERMINADA</b> expressamente, ou pelo tempo ou pela circunstância de que ela trata;</li>
+         <li>Regula as <b>RELAÇÕES JURÍDICAS</b> que durante a sua VIGÊNCIA se estabeleceram, <b>MESMO QUE SUA VIGÊNCIA TENHA TERMINADO</b></u>;</li>
+         <li>Os <u>EFEITOS JURÍDICOS</u> de sua aplicação <b><u>SERÃO PERMANENTES</u></b> para as <u>SITUAÇÕES JURÍDICAS</u> ocorridas em sua vigência.</li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+#### OS COSTUMES
 
 ### Fontes INDIRETAS, SECUNDÁRIAS ou MEDIATAS do Direito
 
@@ -349,3 +514,5 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 [^MACHADO-1963]: MACHADO NETO, Antônio Luiz. Introdução à Ciência do Direito (Sociologia Jurídica). São Paulo: Saraiva, 1963. v. 2.
 
 [^ADEODATO-1996]: ADEODATO, João Maurício. Filosofia do Direito: Uma crítica à Verdade na Ética e na Ciência. São Paulo:Sairava, 1996.
+
+[^VENOSA-2001]: VENOSA, Silvo de Salvo. Direito Civil: Parte Geral. São Paulo: Atlas, 2001.
