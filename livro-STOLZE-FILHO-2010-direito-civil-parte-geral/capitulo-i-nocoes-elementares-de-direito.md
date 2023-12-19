@@ -180,10 +180,10 @@
 
 Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
-|Termo|Alcance|
-|:---|:---|
-|**Direito**|- Rege comportamento exterior;<br>- Estabelece CORRELAÇÃO entre direitos e obrigações;<br>- Estabelece obrigações **SANCIONADAS** <u>PELO PODER PÚBLICO</u>;<br>- <u>Possui</u> **COERCITIVIDADE**.|
-|**Moral**|- Enfatiza a INTENÇÃO;<br>- Prescrevem **DEVERES** que não dão origem a **DIREITOS SUBJETIVOS**;<br>- Estabelece **SANÇÕES DIFUSAS** e **NÃO INSTITUCIONALIZADAS**;<br>- <u>Não</u> possui **COERCITIVIDADE**;|
+| Termo       | Alcance                                                                                                                                                                                                        |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Direito** | - Rege comportamento exterior;<br>- Estabelece CORRELAÇÃO entre direitos e obrigações;<br>- Estabelece obrigações **SANCIONADAS** <u>PELO PODER PÚBLICO</u>;<br>- <u>Possui</u> **COERCITIVIDADE**.            |
+| **Moral**   | - Enfatiza a INTENÇÃO;<br>- Prescrevem **DEVERES** que não dão origem a **DIREITOS SUBJETIVOS**;<br>- Estabelece **SANÇÕES DIFUSAS** e **NÃO INSTITUCIONALIZADAS**;<br>- <u>Não</u> possui **COERCITIVIDADE**; |
 
 - Para **Machado Neto (1963, p. 204-205)**[^MACHADO-1963]:
   - Existem uma RELAÇÃO GENÉTICA entre a Moral e o Direito:
@@ -435,37 +435,110 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
 #### CLASSIFICAÇÃO DAS LEIS
 
-- Quanto a IMPERATIVIDADE / OBRIGATORIEDADE
-  - Leis impositivas / Cogentes:
-    - Estabelecem principios 
-  - Leis dispositivas
-- Quanto a SANÇÃO INSTITUCIONALIZADA ou AUTORIZAMENTO
-  - Leis Perfeitas
-  - Leis Mais que Perfeitas
-  - Leis Menos que Perfeitas
-  - Leis Imperfeitas
-- Quanto a ORIGEM
-  - Leis federais
-  - Leis Estaduais
-  - Leis Municipais
-- Quanto a DURAÇÃO
-        - Leis permanentes
-        - Leis temporárias
-- Quanto a ALCANCE
-        - leis gerais
-        - leis singulares
-        - Leis especiais
-        - Leis excepcionais
-- Quanto a HIERARQUIA
-        - Constituição
-        - Leis Infraconstitucionais
-          - Lei complementares
-          - Leis ordinárias
-        - Decretos Regulamentares
-        - Decreto-Lei
-        - Medidas provisórias
-        - Resolução do Poder Legislativo
-        - Normas Internas (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
+##### Quanto a **IMPERATIVIDADE / OBRIGATORIEDADE**
+
+- Leis **impositivas**/ **Cogentes**:
+  - Estabelecem princípios de **ordem pública** de observância **OBRIGATÓRIA**;
+  - Exemplo 1: As formalidades do casamento são inderrogáveis, pela vontade das parte, sob pena de nulidade
+- Leis **dispositivas**:
+  - São regras relativas (permissivas ou supletivas);
+  - São aplicáveis na ausência de manifestação em sentido contrário pelas partes;
+    - Exemplo 1: Obrigação do locador pagar as despesas extraordinárias de condomínio, previstas em lei, pode ser transferida ao locatário, por força de pactuação expressa nesse sentido;
+
+##### Quanto a SANÇÃO INSTITUCIONALIZADA ou AUTORIZAMENTO
+
+- Leis **Perfeitas**:
+  - São normas jurídicas cuja violação autoriza:
+    - A declaração de **NULIDADE** :
+      - Absoluta;
+      - Relativa;
+    - Exemplo: O ato ou negócio jurídico praticado com <u>vício de consentimento</u> é anulável (art. 171, II, do Código Civil de 2002)
+- Leis **Mais que Perfeitas**
+  - São normas jurídicas cuja violação autorizam a aplicação de **DUAS SANÇÕES**:
+    - Nulidade do ato praticado; **OU**
+    - Reestabelecimento do _status quo ante_;
+    - Exemplo: O casamento de pessoas casadas é vedado por lei (art. 1.521, VI, Código Civil 2002);
+- Leis **Menos que Perfeitas**
+  - São normas jurídicas cuja violação:
+    - AUTORIZAM a aplicação de uma sanção ao violador; **E** 
+    - NÃO AUTORIZAM a nulidade do ato;
+  - Exemplo: Casamento do viúvo com os filhos do cônjugue falecido, antes de fazer o inventário do casal, com a partilha aos herdeiros (Código Civil de 1916 (antigo), art. 225):
+    - Não IMPLICAVA em NULIDADE do ato;
+    - Mas IMPLICAVA em perda do USUFRUTO LEGAL;
+- Leis **Imperfeitas**
+  - NÃO SÃO CONSIDERADAS tecnicamente NORMAS JURÍDICAS;
+  - São normas _sui generis_;
+  - NÃO prescrevem NULIDADE nem QUALQUER OUTRA SANÇÃO;
+
+##### Quanto a ORIGEM ou EXTENSÃO TERRITORIAL
+
+- Leis **Federais**
+  - Criadas no âmbito da UNIÃO (normalmente, o Congresso Nacional);
+  - Aplicam-se a TODO O PAÍS ou a PARTE DELE (legislações federais de desenvolvimento regional);
+  - No Brasil, por exceção, admite-se **leis delegadas** e **medidas provisórias** com pronunciamento do **poder legislativo**;
+  - Exemplos:
+    - Constituição Federal;
+    - Código Civil;
+    - CLT;
+- Leis **Estaduais**
+  - Promulgadas pelas Assembléias Legislativas;
+  - Aplicam-se ao território estadual ou a parte dele;
+  - Exemplos:
+    - Constituição Estadual;
+    - Lei do ICMS;
+- Leis **Municipais**
+  - Aprovadas pelas Câmaras Municipais;
+  - Aplicam-se ao território do município;
+  - Exemplos:
+    - Lei Orgânica do Município;
+    - Lei do IPTU;
+
+##### Quanto a DURAÇÃO
+
+- Leis **permanentes**
+  - São normas jurídicas SEM PRAZO DE VIGÊNCIA predeterminado;
+  - <span style="background-color:yellow">É a **REGRA GERAL** das leis brasileiras</span>;
+- Leis **temporárias**
+  - São normas jurídicas com PRAZO LIMITADO DE VIGÊNCIA;
+  - Os **EFEITOS JURÍDICOS** das **NORMAS JURÍDICAS TEMPORÁRIAS** são **PERMANENTES** para as **SITUAÇÕES JURÍDICAS** consolidados durante seu período de vigência, <span style="background-color:yellow">**SALVO**</span> DISPOSIÇÃO LEGAL POSTERIOR;
+
+##### Quanto a ALCANCE
+
+- Leis **gerais**
+  - São normas jurídicas que disciplinam uma **QUANTIDADE ILIMITADA** de **SITUAÇÕES JURÍDICAS <u>GENÉRICAS</u>**
+- Leis **singulares**
+  - São normas jurídicas que são estabelecidas para **um único caso concreto**;
+  - São leis por uma questão de classificação didática;
+- Leis **especiais**
+  - São normas jurídicas que relugam matérias com **CRITÉRIOS PARTICULARES** (diverso das leis gerais);
+  - Trazem normas especializadas para o ordenamento jurídico;
+    - Exemplos:
+      - CLT - Quando a CLT surgiu, ela <u>pretendeu disciplinar um determinado tipo de contrato</u> (CONTRATO DE EMPREGO), diferente do CÓDIGO CIVIL que continuou regendo GENERICAMENTE o **contrato de prestação de serviços**;
+      - Lei do Inquilinato - Cuida ESPECIFICAMENTE do **contrato de locação de imóveis**, diferente do que disciplina GENERICAMENTE o **contrato de locação** no CÓDIGO CIVIL;
+- Leis **excepcionais**
+  - São normas jurídicas que disciplinam **FATOS** e **RELAÇÕES JURÍDICAS <u>GENÉRICAS</u>**, de maneira diversa das **LEIS GERAIS**;
+  - Acabam negando as REGRAS / LEIS GERAIS
+  - Exemplos:
+    - Atos institucionais da Revolução de 1964
+
+##### Quanto a HIERARQUIA
+
+- Constituição: É o fundamento do Direito Positivo de um ordenamento jurídico nacional;
+  - 
+- Leis Infraconstitucionais:
+  - Tecnicamente, NÃO HÁ HIERARQUIA entre normas infraconstitucionais;
+  - EXISTEM matérias que EXIGEM:
+    - Um determinado TIPO DE LEI infraconstitucional;
+    - Um determinado RITO / PROCEDIMENTO de aprovação;
+    - Um determinado QUORUM para aprovação;
+    - Um determinado ÓRGÃO COMPETENTE para sua elaboração;
+  - Lei complementares
+  - Leis ordinárias
+- Decretos Regulamentares
+- Decreto-Lei
+- Medidas provisórias
+- Resolução do Poder Legislativo
+- Normas Internas (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
 
 #### OS COSTUMES
 
