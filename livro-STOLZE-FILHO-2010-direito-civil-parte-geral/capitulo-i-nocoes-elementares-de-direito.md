@@ -448,10 +448,9 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 ##### Quanto a SANÇÃO INSTITUCIONALIZADA ou AUTORIZAMENTO
 
 - Leis **Perfeitas**:
-  - São normas jurídicas cuja violação autoriza:
-    - A declaração de **NULIDADE** :
-      - Absoluta;
-      - Relativa;
+  - São normas jurídicas cuja violação autoriza a declaração de **NULIDADE DO ATO**:
+    - NULIDADE ABSOLUTA; **OU**
+    - NULIDADE RELATIVA
     - Exemplo: O ato ou negócio jurídico praticado com <u>vício de consentimento</u> é anulável (art. 171, II, do Código Civil de 2002)
 - Leis **Mais que Perfeitas**
   - São normas jurídicas cuja violação autorizam a aplicação de **DUAS SANÇÕES**:
@@ -460,9 +459,9 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
     - Exemplo: O casamento de pessoas casadas é vedado por lei (art. 1.521, VI, Código Civil 2002);
 - Leis **Menos que Perfeitas**
   - São normas jurídicas cuja violação:
-    - AUTORIZAM a aplicação de uma sanção ao violador; **E** 
-    - NÃO AUTORIZAM a nulidade do ato;
-  - Exemplo: Casamento do viúvo com os filhos do cônjugue falecido, antes de fazer o inventário do casal, com a partilha aos herdeiros (Código Civil de 1916 (antigo), art. 225):
+    - **AUTORIZAM** a aplicação de uma sanção ao violador; **E** 
+    - **NÃO AUTORIZAM** a nulidade do ato;
+  - Exemplo: No Código Civil de 1916 (antigo), art. 225, o casamento do viúvo com um os filhos do cônjugue falecido, <u>antes de fazer o inventário do casal</u>, com a partilha aos herdeiros:
     - Não IMPLICAVA em NULIDADE do ato;
     - Mas IMPLICAVA em perda do USUFRUTO LEGAL;
 - Leis **Imperfeitas**
@@ -527,53 +526,206 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   - 
 - Leis Infraconstitucionais:
   - Tecnicamente, NÃO HÁ HIERARQUIA entre normas infraconstitucionais;
-  - EXISTEM matérias que EXIGEM:
+  - Existem MATERIAS que EXIGEM:
     - Um determinado TIPO DE LEI infraconstitucional;
     - Um determinado RITO / PROCEDIMENTO de aprovação;
     - Um determinado QUORUM para aprovação;
     - Um determinado ÓRGÃO COMPETENTE para sua elaboração;
-  - Lei complementares
-  - Leis ordinárias
+  - São ESPÉCIES de leis infraconstitucionais
+    - Lei complementares
+    - Leis ordinárias
 - Decretos Regulamentares
-- Decreto-Lei
-- Medidas provisórias
-- Resolução do Poder Legislativo
-- Normas Internas (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
+  - São normas jurídicas elaboradas pelo PODER EXECUTIVO, com a FINALIDADE de:
+    - Explicitar o sentido técnico de uma lei;
+    - Dar condições de execução a lei;
+- <span style="background-color:yellow">Normas Internas</span> (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
+  - <span style="background-color:yellow">**NÃO** são leis **_STRICTU SENSU_**</span>;
+  - Tem por <u>finalidade</u> <span style="background-color:yellow">DISCIPLINAR SITUAÇÕES ESPECÍFICAS</span>, em especial, da Administração Pública;
 
 #### OS COSTUMES
 
+- O costume é uma FONTE DE DIREITO com **OBJETIVIDADE** menor que a LEI;
+- Sua **FORMULAÇÃO** exige **PROCEDIMENTO DIFUSO** que **NÃO SE REDUZ** a um **PROCEDIMENTO FORMAL**;
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE COSTUME ?</b></p>
+      O <b>COSTUME</b> é:
+       <ul>
+         <li> O uso <b>GERAL</b>,</li>
+         <li> O uso <b>CONSTANTE</b>,</li>
+         <li> O uso <b>NOTÓRIO</b>, </li>
+         <li> Observado <b>SOCIALMENTE</b> (necessidade social),</li>
+         <li> Correspondente a uma <b>NECESSIDADE JURÍDICA</b>;</li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+       <b>Verifique</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE <u>CARACTERIZA</u> UM COSTUME ?</b></p>
+      O <b>COSTUME</b> é CARACTERIZADO por <b>DOIS ELEMENTOS</b>:
+       <ul>
+         <li> Elemento <b>OBJETIVO</b> ou <b>SUBSTANCIAL</b>: </li>
+           <ul>
+             <li>O USO continuado de uma PRÁTICA no TEMPO</li>
+           </ul>
+         <li> Elemento <b>SUBJETIVO</b> ou <b>RELACIONAL</b>: </li>
+           <ul>
+             <li>CONVICÇÃO da OBRIGATORIEDADE da prática com uma NECESSIDADE SOCIAL</li>
+           </ul>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+- É a **CONVICÇÃO DA OBRIGATORIEDADE** (elemento subjetivo ou relacional do costume), que <span style="background-color:yellow">EXPLICA SOCIOLOGICAMENTE</span> o <span style="background-color:yellow">ENGAJAMENTO AO COSTUME PELO SILÊNCIO</span>:
+  - Ela tem fundamento numa EXPECTATIVA DE CONSENSO;
+  - Ela tem fundamento na SUPOSIÇÃO BEM-SUCEDIDA de que TODOS CONCORDAM;
+  - Ela tem fundamento na CAPACIDADE SOCIAL limitada para conceder ATENÇÃO a tudo o que ocorre;
+
+- O COSTUME tem sua **AUTORIDADE** respaldada na **FORÇA** conferida pelo **TEMPO** e pelo seu **USO CONTÍNUO**;
+
+- Na lição de **Gomes (2001, p. 43-44)**[^GOMES-2001], existe um INTERESSE PRÁTICO em explicar o FUNDAMENTO da FORÇA OBRIGATÓRIA do costume:
+  - OU a **autoridade do costume** se consagra pelo **RECONHECIMENTO DO LEGISLADOR** (tese da confirmação jurídica); 
+  - OU a **autoridade do costume** se consagra pela **ACEITAÇÃO DO JUIZ** (tese da aceitação pelo juiz);
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+       <b>Reflexão</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O FUNDAMENTO DA <u>FORÇA OBRIGATÓRIA</u> DO COSTUME?</b><br>segundo ORLANDO GOMES</p>
+      Para ORLANDO GOMES, para que o COSTUME seja ACEITO COM A AUTORIDADE que lhe é necessária, segundo a <b>TESE DA CONFIRMAÇÃO JURÍDICA</b>:
+       <ul>
+         <li>Deve ser <b>RECONHECIDO</b> e <b>APLICADO</b> pelos tribunais (JURISPRUDÊNCIA) </li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+#### O COSTUME PODE SER VISUALIZADO DE TRÊS FORMAS
+
+##### COSTUME _PRAETER LEGEM_
+
+- É o costume que visa **DISCIPLINAR MATÉRIA** que a lei **NÃO CONHECE**
+- Tem o **OBJETIVO** de <u>**SUPRIR a lei**</u> em suas **EVENTUAIS OMISSÕES**;
+- Exemplo: A lei silencia como o arrendatário deve tratar a propriedade arrendada. Nesse caso, deve-se recorrer aos costumes locais;
+
+##### COSTUME _SECUNDUM LEGEM_
+
+- A própria <u>**lei**</u> reconhece a **EFICÁCIA JURÍDICA** do costume;
+- Não é que o costume e a lei nesse caso sejam a mesma coisa, tendo em vista a impossibilidade de a lei prever todas as condutas possíveis
+  - Exemplo: O locatário deve pagar o aluguel pontualmente nos prazos ajustados. Na ausência desse ajuste, **segundo os costumes do lugar**.
+- Há de se falar, nessa presente categoria, o chamado **COSTUME INTERPRETATIVO**
+  - Brocardo do código de Direito canônico: "O costume é o melhor interprete da lei".
+
+##### COSTUME _CONTRA LEGEM_
+
+- É uma **MANIFESTAÇÃO SOCIAL**;
+- É o reconhecimento de uma prática que se opõe ao Direito legislado;
+- Não é admitido no Direito Positivo;
+- Pode se manifestar de **DUAS FORMAS**:
+  - **DESUSO** (_dessuetudo_):
+    - A lei **entra em VIGOR**;
+    - A lei <u>sequer chegou</u> a **gerar efeitos práticos**;
+    - A lei <u>**já NÃO CORRESPONDE**</u> a **REALIDADE**;
+    - A lei pode ser deixada de lado por terem surgido outras "regras" costumeiras;
+  - **COSTUME AB-ROGATÓRIO** (_consuetudo ab-rogatoria_):
+    - A norma jurídica teve eficácia por um tempo;
+    - A evolução dos valores sociais acaba por negá-la;
+    - Surge um NOVO COSTUME que <u>**se opõe a lei**</u>;
+- Pensadores de tendência RACIONALISTA, LEGALISTA ou FORMALISTA:
+  - Rejeitam o costume _CONTRA LEGEM_;
+  - Consideram o costume _CONTRA LEGEM_ **incompatível**:
+    - Com a **função do Estado**; e
+    - Com a **regra** de que uma lei somente se revoga por meio de outras leis;
+- Exemplos de costumes _CONTRA LEGEM_
+  - **#1**: Foi nitidamente aplicável em relação ao art. 178 do Código Civil de 1916: **ação anulatória por defloramento anterior da mulher**, já estavam em desuso (1) antes da constituição de 1988 e de sua revogação formal;
+  - **#2**: Consta relacionado ao art. 74 do Código Civil de 2002. Exige-se **prova de intenção de mudança de domicílio** "o que a pessoa declarar às municipalidades dos lugares, que deixa, e para onde vai". A **referida "declaração"** é uma regra que **NÃO POSSUI EFEITO JURÍDICO ALGUM**.
+
 ### Fontes INDIRETAS, SECUNDÁRIAS ou MEDIATAS do Direito
 
-- A analogia:
-- Os costumes:
-- Os princípios gerais de direito:
+#### Jurisprudência  
 
+- Também chamado de **COSTUME JUDICIÁRIO**;
+- A palavra **JURISPRUDÊNCIA** já foi empregada como sinônimo de **CIÊNCIA DO DIREITO**;
+- Encontramos a jurisprudência quando ocorre o reconhecimento de uma conduta como obrigatória conforme o entendimento e pronunciamento dos tribunais;
+- A jurisprudência é fonte auxiliar do Direito;
 
-### Costume  
-### Jurisprudência  
-### Doutrina  
-### Analogia  
-### Princípios gerais do Direito  
-### Equidade
-#### Decisão COM equidade  
-#### Decisão POR equidade  
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>COSTUME E JURISPRUDÊNCIA <u>NÃO SÃO</u> A MESMA COISA</b></p>
+      <p>No <b>COSTUME</b>:</p>
+       <ul>
+         <li>Temos a criação de uma prática popular</li>
+         <li>Que nasce espontaneamente</li>
+         <li>Que decorre do que se considera como socialmente obrighatório</li>
+       </ul>
+      <p>Na <b>JURISPRUDÊNCIA</b>:</p>
+       <ul>
+         <li>É obra <u>exclusiva</u> da reflexão dos <b>operadores do direito</b></li>
+         <li>É obra das decisões de <b>juízes monocráticos</b></li>
+         <li>É obra das decisões dos <b>tribunais</b></li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+<span style="background-color:yellow"><b>Continuar na página 62, definição de jurisprudência ...</b></span>
+
+#### Doutrina  
+
+#### Analogia  
+
+#### Princípios gerais do Direito  
+
+#### Equidade
+
+##### Decisão COM equidade  
+
+##### Decisão POR equidade  
+
 ## Algumas palavras sobre os sistemas jurídicos (Civil Law e Common Law)  
+
 ## A dicotomia entre o Direito público e Direito privado e a taxonomia do Direito Civil  
+
 ## Conceito doutrinário e histórico do Direito Civil  
+
 ## Conteúdo do Código Civil 
 
 # Referências bibliográficas do capítulo
 
-[^MONTEIRO-2000]: MONTEIRO, Washington de Barros. Curso de Direito Civil: Parte Geral. 37.ed. São Paulo: Saraiva, 2000. v. 1.
-
-[^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/ Acesso em: 16 dez. 2023
-
-[^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
+[^ADEODATO-1996]: ADEODATO, João Maurício. Filosofia do Direito: Uma crítica à Verdade na Ética e na Ciência. São Paulo:Sairava, 1996.
 
 [^CARNELUTTI-1999]: CARNELUTTI, Francesco. Teoria Geral do Direito. São Paulo: Lejus, 1999.
 
+[^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/ Acesso em: 16 dez. 2023
+
+[^GOMES-2001]: GOMES, Orlando. Introdução ao Direito Civil. Rio de Janeiro:Forense, 2001.
+
 [^MACHADO-1963]: MACHADO NETO, Antônio Luiz. Introdução à Ciência do Direito (Sociologia Jurídica). São Paulo: Saraiva, 1963. v. 2.
 
-[^ADEODATO-1996]: ADEODATO, João Maurício. Filosofia do Direito: Uma crítica à Verdade na Ética e na Ciência. São Paulo:Sairava, 1996.
+[^MONTEIRO-2000]: MONTEIRO, Washington de Barros. Curso de Direito Civil: Parte Geral. 37.ed. São Paulo: Saraiva, 2000. v. 1.
+
+[^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
 
 [^VENOSA-2001]: VENOSA, Silvo de Salvo. Direito Civil: Parte Geral. São Paulo: Atlas, 2001.
