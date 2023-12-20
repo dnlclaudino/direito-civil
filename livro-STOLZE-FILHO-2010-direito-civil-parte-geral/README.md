@@ -38,7 +38,7 @@ GANGLIANO, Pablo Stolze; FILHO, Rodolfo Pamplona. Novo curso de direito civil: p
 3. Fontes do Direito  
 3.1 Classificação das fontes  
 3.2 Fontes do Direito em espécie  
-3.2.1 Legislação (CARACTERÍSTICAS gerais das leis / CLASSIFICAÇÃO das leis)
+3.2.1 Legislação (CARACTERÍSTICAS gerais das leis / CLASSIFICAÇÃO das leis)  
 3.2.2 Costume  
 3.2.3 Jurisprudência  
 3.2.4 Doutrina  
