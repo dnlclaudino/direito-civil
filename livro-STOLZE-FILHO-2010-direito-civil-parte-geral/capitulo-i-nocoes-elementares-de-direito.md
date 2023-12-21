@@ -522,16 +522,16 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
 ##### Quanto a HIERARQUIA
 
-- Constituição: É o fundamento do Direito Positivo de um ordenamento jurídico nacional;
-  - 
+- Constituição:
+  - É o fundamento do Direito Positivo de um ordenamento jurídico nacional;
 - Leis Infraconstitucionais:
-  - Tecnicamente, NÃO HÁ HIERARQUIA entre normas infraconstitucionais;
-  - Existem MATERIAS que EXIGEM:
+  - Tecnicamente, **NÃO HÁ HIERARQUIA** entre normas infraconstitucionais;
+  - Existem **MATERIAS** que **EXIGEM**:
     - Um determinado TIPO DE LEI infraconstitucional;
     - Um determinado RITO / PROCEDIMENTO de aprovação;
     - Um determinado QUORUM para aprovação;
     - Um determinado ÓRGÃO COMPETENTE para sua elaboração;
-  - São ESPÉCIES de leis infraconstitucionais
+  - São **ESPÉCIES** de leis infraconstitucionais
     - Lei complementares
     - Leis ordinárias
 - Decretos Regulamentares
@@ -661,9 +661,18 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
 #### Jurisprudência  
 
-- Também chamado de **COSTUME JUDICIÁRIO**;
+- Também chamado(a) de:
+  - **COSTUME JUDICIÁRIO**;
+  - **CONSTRUÇÃO PRETORIANA**;
 - A palavra **JURISPRUDÊNCIA**
   - Já foi empregada como sinônimo de **CIÊNCIA DO DIREITO**;
+- Segundo **Gangliano e Pamplona Filho (2010, p. 62)**:
+  - A JURISPRUDÊNCIA vem ganhando **contornos novos**;
+  - Que permite reconhecê-lo como **verdadeira fonte do Direito**
+  - A **FINALIDADE REAL** da **JURISPRUDÊNCIA**:
+    - É **readequar o sistema jurídico** a uma **nova conjugação de forças** SEM NEGAR as **premissas** do próprio **centro de poder** de que faz parte;
+    - É atender os **fins sociais** a que a lei se destina
+    - É atender as **exigências do bem comum**.
 
 <table>
   <tr>
@@ -742,9 +751,19 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   </tr>
 </table>
 
+- A JURISPRUDÊNCIA PACÍFICA nos tribunais
+  - NÃO OBRIGA JURIDICAMENTE, mas acaba prevalecendo <u>na maioria</u> dos casos;
+  - É HIPÓTESE de admissibilidade de RECURSO EXTRAORDINÁRIO (_latu sensu_) a eventual violação ao entendimento das respectivas cortes abaixo:
+    - No STF (Recurso Extraordinário);
+    - No STJ (Recurso Especial);
+    - No TST (Recurso de Revista).
+- 
 
+<span style="background-color:yellow"><b>Continuar na página 62, paragrafo 7º - Jurisprudencia CONTRA LEGEM ...</b></span>
 
-<span style="background-color:yellow"><b>Continuar na página 62, paragrafo 4º - a jurisprudencia pacifica nos tribunais nao vincula ...</b></span>
+##### JURISPRUDENCIA _CONTRA LEGEM_
+
+- Conforme o entendimento do prof. ....
 
 
 
