@@ -310,7 +310,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   - **INDIRETAS**: 
     - Analogia;
     - Principios Gerais do Direito;
-    - OUTRAS FONTES auxiliares de interpretação:
+    - OUTRAS FONTES auxiliares de interpretação (p. 54, §1º):
       - Jurisprudência
       - Doutrina
       - Equidade
@@ -662,9 +662,46 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 #### Jurisprudência  
 
 - Também chamado de **COSTUME JUDICIÁRIO**;
-- A palavra **JURISPRUDÊNCIA** já foi empregada como sinônimo de **CIÊNCIA DO DIREITO**;
+- A palavra **JURISPRUDÊNCIA**
+  - Já foi empregada como sinônimo de **CIÊNCIA DO DIREITO**;
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE É JURISPRUDÊNCIA ?</b></p>
+      <p>Atualmente, <b>JURISPRUDÊNCIA</b> significa:.</p>
+      <ul>
+        <li>"O <b><u>conjunto</u></b> das <b>reiteradas decisões</b> dos <u>tribunais</u> sobre determinada <b>matéria</b>".</li>
+        <li>É a complexa <b>reunião de julgados</b>, e não cada um deles isoladamente.</li>
+      </ul>
+      <p>Podemos evocar o seguinte brocardo jurídico:</p>
+       <ul>
+         <li>"A autoridade das coisas julgadas da mesma maneira"<br>(_rerum perpetuo similiter judicatorum auctoritas_)</li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
 - Encontramos a jurisprudência quando ocorre o reconhecimento de uma conduta como obrigatória conforme o entendimento e pronunciamento dos tribunais;
-- A jurisprudência é fonte auxiliar do Direito;
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center;"><b>JURISPRUDÊNCIA ou JURISPRUDÊNCIAS ?</b></p>
+      <p>É um erro técnico usar a palavra <b>JURISPRUDÊNCIA</b> no <u>PLURAL</u> ("<span style="color:red;text-weight:bold;text-decoration:line-through">jurisprudências</span>").</p>
+    </td>
+  </tr>
+</table>
+
+- A jurisprudência é uma fonte auxiliar do Direito;
 
 <table>
   <tr>
@@ -690,7 +727,26 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   </tr>
 </table>
 
-<span style="background-color:yellow"><b>Continuar na página 62, definição de jurisprudência ...</b></span>
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-questao-de-prova.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center;"><b>A JURISPRUDÊNCIA e a Lei de Introdução ao Código Civil</b></p>
+      <p>A JURISPRUDÊNCIA é <u>inequivocamente</u> uma fonte do Direito (fonte indireta, auxiliar, mediata ou secundária, conforme vimos na p. 54, §1º).</p>
+      <p>Ocorre que a <a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657compilado.htm">Lei de Introdução ao Código Civil (Decreto-Lei 4.657/1942)</a> não menciona a <b>JURISPRUDÊNCIA <u>expressamente</u></b> como fonte do Direito, nem no artigo 4º, nem nos demais.</p>
+      <p><span style="background-color:yellow"><b>MUITA ATENÇÃO</b>, pois isso pode ser cobrado em prova!</span></p>
+    </td>
+  </tr>
+</table>
+
+
+
+<span style="background-color:yellow"><b>Continuar na página 62, paragrafo 4º - a jurisprudencia pacifica nos tribunais nao vincula ...</b></span>
+
+
 
 #### Doutrina  
 
