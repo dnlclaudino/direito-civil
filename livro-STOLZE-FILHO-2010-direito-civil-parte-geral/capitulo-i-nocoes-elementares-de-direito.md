@@ -757,19 +757,177 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
     - No STF (Recurso Extraordinário);
     - No STJ (Recurso Especial);
     - No TST (Recurso de Revista).
-- 
-
-<span style="background-color:yellow"><b>Continuar na página 62, paragrafo 7º - Jurisprudencia CONTRA LEGEM ...</b></span>
 
 ##### JURISPRUDENCIA _CONTRA LEGEM_
 
-- Conforme o entendimento do prof. ....
+- Conforme o entendimento de **Machado Neto (1963, p. 13)**[^MACHADO-1963] da UFBA:
+  - Sem que possa ser tomado como regra, quando a **jurisprudência _contra legem_** ocorre e logra vigência e eficácia, não há de se negar a **condição de efetivo Direito**.
+  - Na opinião de Machado Neto: "Qual será o Direito de um povo ? A lei que ninguém acata ou a jurisprudência, embora _contra legem_, mas que os tribunais vêm seguindo e acatando?"
+  - O autor <u>**considera EXAGERO**</u> a proposição da **ESCOLA DO DIREITO JUSTO** de **Hermann Kantorowicz**.
+    - Tal escola <u>propugnava a prática da **jurisprudência _contra legem_** como a **REGRA GERAL**</u> em nome da **JUSTIÇA** e da **ELABORAÇÃO ESPONTÂNEA DO DIREITO**.
 
+<table id="capitulo-i-exemplo-jurisprudencia-contra-legem" border="1">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>ACEITAÇÃO DA PRÁTICA JURISPRUDENCIAL DO CHEQUE-PRÉDATADO</b></p>
+     <p>1) A <b><a href="https://www.planalto.gov.br/ccivil_03/leis/l7357.htm">lei nº 7.357, DE 2 DE SETEMBRO DE 1985</a></b> que dispõe sobre o cheque e dá outras providências, contém dispositivo que afirma:</p>
+     <ul>
+       <li><b>Art. 32</b> O cheque é pagável à vista. Considera-se não-estrita qualquer menção em contrário."
+       </li>
+       <ul>
+         <li><b>Parágrafo único</b> - O cheque apresentado para pagamento antes do dia indicado como data de emissão é pagável no dia da apresentação.</li>
+       </ul>
+     </ul>
+     <p>2) O <b><a href="https://www.planalto.gov.br/ccivil_03/leis/l7357.htm">Decreto-Lei nº 2.848/1940, DE 7 DE SETEMBRO DE 1940</a></b> (Código Penal) dispõe que:</p>
+     <ul>
+       <li><b>Estelionato</b><br><b>Art. 171</b> Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:
+       </li>
+       <ul>
+         <li><b>Pena</b> - reclusão, de um a cinco anos, e multa, de quinhentos mil réis a dez contos de réis.    (Vide Lei nº 7.209, de 1984)</li>
+         <li><b>§ 1º</b> - Se o criminoso é primário, e é de pequeno valor o prejuízo, o juiz pode aplicar a pena conforme o disposto no art. 155, § 2º.</li>
+         <li><b>§ 2º</b> - Nas mesmas penas incorre quem:</li>
+         <ul>
+           <li><b>VI</b> - emite cheque, sem suficiente provisão de fundos em poder do sacado, ou lhe frustra o pagamento. (Fraude no pagamento por meio de cheque)</li>
+         </ul>
+       </ul>
+     </ul>
+     <p>3) Encontramos a <b>Súmula STJ nº 246</b> que afima: "Comprovado não ter havido fraude, não se configura o crime de emissão de cheque sem fundos."</p>
+    </td>
+  </tr>
+</table>
 
+#### Doutrina
 
-#### Doutrina  
+<table id="capitulo-i-quadro-definicao-doutrina">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>A <b>Doutrina</b> é a <b>opinião <u>comum</u></b> dos juristas, dos doutos.</p>
+     <p>No sistema <b>Civil law</b>, a <b>DOUTRINA</b>:</p>
+     <ul>
+       <li><u>NÃO POSSUI IMPOSIÇÃO</u> ao seu acatamento;</li>
+       <li>Confere <b>UNIFORMIDADE</b> a <b>conceitos legais</b> <u>vagos</u> e <u>ambíguos</u></li>
+       <li>É responsável pela <b>DEFINIÇÃO</b> de alguns <b>conceitos indeterminados</b>;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
 
-#### Analogia  
+<center>
+
+```mermaid
+mindmap
+(("CONCEITOS LEGAIS<br><u>Vagos</u> e <u>Ambíguos</u>"))
+  Mulher honesta
+  justa causa
+  absoluta<br>impossibilidade
+```
+
+</center>
+
+- A Doutrina acaba sendo **fonte do Direito** pois continuamente:
+  - Propõe soluções;
+  - Inova;
+  - Interpreta;
+  - Preenche (colmatar) lacunas;
+- Sua autoridade como **base de ORIENTAÇÃO para interpretar** o Direito **é irrecusável**.
+
+#### Analogia
+
+<table id="capitulo-i-quadro-definicao-analogia">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>É um meio supletivo em caso de <b>LACUNA DA LEI</b>.<br><b>NÃO</b> é uma <b>FONTE DO DIREITO</b></p>
+     <p>Para <b>Souza Neto (2000, p. 25)</b><sup>*</sup>:</p>
+     <ul>
+       <li>A <b>ANALOGIA</b> é uma forma típica de raciocínio;</li>
+       <li>Se <b>estende</b> a uma <b>espécie de fato</b> (<i>facti species</i>) de uma norma a <b>situações SEMELHANTES</b> para as quais em não havia sido prevista, em princípio;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-analogia-como-funciona">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>
+      <b>Atenção</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>COMO FUNCIONA A ANALOGIA ?</b></p>
+     <ul>
+       <li>Havendo <b>OMISSÃO LEGAL</b>, o <b>JUIZ</b> aplicará ao <b>CASO CONCRETO</b> a <b>NORMA JURÍDICA</b> prevista em <b>SITUAÇÃO <U>SEMELHANTE</U></b> (<a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657.htm#art4">Decreto-lei 4.657/1942 - LINDB, Art. 4</a>)
+       </li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-analogia-formas">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+      <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>AS DUAS FORMAS DA ANALOGIA</b></p>
+     A <b>ANALOGIA</b> pode se manifestar de <b>DUAS FORMAS</b>:
+     <ul>
+       <li><b>ANALOGIA <u><i>LEGIS</i></u></b>:</li>
+       <ul>
+         <li>Quando, <u>INEXISTINDO A LEI</u>, aplica-se <b>OUTRA NORMA JURÍDICA</b> ao caso <i>sub judice</i></li>
+       </ul>
+       <li><b>ANALOGIA <i>JURIS</i></b>:</li>
+       <ul>
+         <li>Quando, <u>INEXISTINDO A LEI</u>, aplica-se um <b>PRINCÍPIO GERAL DO DIREITO</b> ao caso <i>sub judice</i></li>
+       </ul>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-exemplo-analogia-contrato-hospedagem" border="1">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>EXEMPLO DE ANALOGIA <i>LEGIS</i></b></p>
+     <p>1) O <b>Contrato de HOSPEDAGEM</b> é considerado <b>atípico (não existe legislação que o discipline)</b></p>
+     <p>2) Como <b>NÃO EXISTE NORMA JURÍDICA</b>, o juiz poderá invocar, <b>POR ANALOGIA (LEGIS)</b>, as <b>REGRAS</b>:</p>
+     <ul>
+       <li>Dos contratos de DEPÓSITO;</li>
+       <li>Dos LOCAÇÃO DE SERVIÇOS;</li>
+       <li>Dos contratos de COMPRA E VENDA.</li>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-exemplo-analogia-fixar-valor-da-causa" border="1">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>EXEMPLO DE ANALOGIA <i>LEGIS</i></b></p>
+     <p>1) A <b>ação de exonexação de PAGAMENTO DE ALIMENTOS</b> exige a fixação do <b>VALOR DA CAUSA</b>. A lei silencia quanto a isso;</p>
+     <p>2) Observado o <b>Código de Processo Civil</b>, verifica-se haver NORMA JURÍDICA para caso semelhante. Trata-se da fixação do <b>VALOR DA CAUSA</b> para <b>AÇÃO DE ALIMENTOS</b>, tratada no art. 292, III (CPC);</p>
+     <p>3) <b>Código de Processo Civil</b>, Art. 292. O valor da causa constará da petição inicial ou da reconvenção e será:<br><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III</b> - na ação de alimentos, a soma de 12 (doze) prestações mensais pedidas pelo autor; </p>
+     <p>4) Ou seja, por <b>ANALOGIA <i>LEGIS</i></b>, essa hipótese da <b>fixação do valor da causa</b> do art. 292, III (CPC) <u>não prevista</u> para a <b>ação de exoneração de alimentos <b>FOI APLICADA</b>.</b> A esse respeito, temos a </p>
+    </td>
+  </tr>
+</table>
 
 #### Princípios gerais do Direito  
 
@@ -802,5 +960,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 [^MONTEIRO-2000]: MONTEIRO, Washington de Barros. Curso de Direito Civil: Parte Geral. 37.ed. São Paulo: Saraiva, 2000. v. 1.
 
 [^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
+
+[^SOUZA-NETO-2000]: SOUZA NETO, João Baptista de Mello. Direito Civil: Parte Geral. 3.ed. São Paulo: Atlas, 2000
 
 [^VENOSA-2001]: VENOSA, Silvo de Salvo. Direito Civil: Parte Geral. São Paulo: Atlas, 2001.
