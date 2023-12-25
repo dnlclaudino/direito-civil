@@ -20,7 +20,6 @@
 
 # Capítulo I - Noções Elementares de Direito
 
-
 ## Objetivos do capítulo 
 
 - Ao iniciarmos os estudos do Direito Civil  é imprescindível o conhecimento de **PREMISSAS GERAIS** e **CONSIDERAÇÕES PROPEDÊUTICAS** da ciência jurídica:
@@ -929,9 +928,154 @@ mindmap
   </tr>
 </table>
 
-#### Princípios gerais do Direito  
+#### Princípios Gerais do Direito
+
+<table id="capitulo-i-quadro-definicao-principios-gerais-do-direito">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>São postulados que procuram FUNDAMENTAR TODO O SISTEMA JURÍDICO.</p>
+     <p>Eles não tem, NECESSARIAMENTE, correspondência positivada equivalente.</p>
+     <p>NÃO É FONTE FORMAL do Direito.</p>
+     <ul>
+       <li>A <b>ANALOGIA</b> é uma forma típica de raciocínio;</li>
+       <li>Se <b>estende</b> a uma <b>espécie de fato</b> (<i>facti species</i>) de uma norma a <b>situações SEMELHANTES</b> para as quais em não havia sido prevista, em princípio;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+- Há quem os reduza aos BROCARDOS ROMANOS:
+
+<table id="capitulo-i-quadro-brocardo-XXX">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-brocardo-juridico.png?raw=true" heigh="70" width="70"><br>
+      <b>Brocardo<br>Jurídico</b>
+    </td>
+    <td valign="top">
+     <p>
+       <i>generalibus juri principii.</i><br>
+       <b>princípios gerais de direito.</b>
+      </p>
+      <p>
+       <i>suum cuique tribuere.</i><br>
+       <b>o que lhe é devido.</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+- Para **Orlando Gomes (2001, p. 49-50)**[^GOMES-2001]:
+  - Os **princípios gerais do Direito**:
+    - **NÃO DEVEM SER ENTENDIDOS** como:
+      - Princípios de validade geral;
+      - Princípios segregados do Direito Natural;
+      - Princípios absolutos;
+    - **DEVEM SER ENTENDIDOS** como:
+      - Princípios histórico-concretos (pertencentes a determinada ordem jurídica);
+  - Há **QUEM DEFENDA**:
+    - Que QUANDO o juiz decide com base nos princípios gerais do direito (ideias jurídicas gerais) expressas no ordenamento jurídico, ele <b>FUNDAMENTA SUA SENTENÇA <u>AINDA NA LEI</u></b>;
+    - Que os princípios gerais do Direito são o ÚLTIMO REFÚGIO do juiz:
+      - Quando a <u>**LEI** for omissa</u>;
+      - Quando <u>falhe a **ANALOGIA**</u>;
+      - Quando <u>não existam</u> **COSTUMES** adequados para o caso contreto;
+  - Há **QUEM DEFENDA**:
+    - Que os princípios gerais do Direito <b>VINCULAM</b> mesmo <u>SEM ESTAR CUNHADOS</u> <b>legislativa</b> ou <b>judicialmente</b>;
+    - Que os princípios gerais do Direito <b>SÓ VINCULAM</b> <u>apenas</u> se <u>ESTIVEREM CUNHADOS</u> <b>legislativa</b> ou <b>judicialmente</b>;
+      - Nesse caso, os princípios gerais do Direito **SÃO <u>FONTES FORMAIS</u> DO DIREITO**.
 
 #### Equidade
+
+<table id="quadro-definicao-equidade">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>CONCEITO DE EQUIDADE</b></p>
+     <p>Segundo <b>Aristóteles</b>: "É a justiça do caso concreto."</p>
+     <p>Não é uma ideia que se opõe ao <u><b>conceito de justiça</b></u>, mas de uma ideia cue <u>completa esse conceito</u>, podendo chegar até a <b>atenuar o rigor da norma</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-citacao-norma-juridica-lei-n-13105-2015-art-127">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-citacao.png?raw=true" heigh="80" width="80"><br>
+      <b>Código de Processo Civil<br><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art127">Lei nº 13.105/2015<br>Art. 140</a></b>
+    </td>
+    <td valign="top">
+     <p><b>Art. 140</b>. O juiz não se exime de decidir sob a alegação de lacuna ou obscuridade do ordenamento jurídico.</p>
+     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>parágrafo único</b>. O juiz só decidirá por equidade nos casos previstos em lei. </p>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-nao-cometa-erros-julgamento-com-equidade-por-equidade">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+      <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>JULGAMENTO: <u>POR</u> EQUIDADE e <u>COM</u> EQUIDADE</b></p>
+     <p><b>1) JULGAMENTO <u>COM</u> EQUIDADE</b>: Todo julgamento DEVE ser COM EQUIDADE, ou seja, buscando a justiça do caso concreto.</p>
+     <p><b>2) JULGAMENTO <u>POR</u> EQUIDADE</b>:</p>
+      <ul> 
+       <li>Só pode ocorrer nos casos <b>EXPRESSAMENTE PREVISTOS EM LEI</b>, conforme CPC, <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art127">Lei nº 13.105/2015, art. 140, parágrafo único.</a></li>
+       <li>É uma situação <b>EXCEPCIONAL</b></li>
+       <li>Nesse caso, a própria LEI atribui ao juiz a possibilidade de <u>JULGAR SEGUNDO <b>O ENTENDIMENTO DELE</b></u>.</li>
+       <li>Em todos esses casos, o juiz <b>NÃO FICA ADSTRITO</b> às regras de interpretação ou métodos de interpretação preestabelecidos, vinculado apenas a:</li>
+       <ul>
+         <li>Sua consciência;</li>
+         <li>Sua percepção de justiça;</li>
+         <li>Sua própria racionalização do problema;</li>
+       </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-exemplo-decisao-por-equidade">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">
+    </td>
+    <td valign="top">
+    <p style="text-align:center"><b>EXEMPLO de decisões <u>POR</u> EQUIDADE</b></p>
+     Admite-se decisões por equidade, por exemplo, nos casos abaixo:<br>
+     <ul>
+       <li>Fixação de honorários;</li>
+       <li>Nas execuções em que se delega ao arbítrio do julgador a fixação do <i>quantur debeatur.</i></li>
+       <li>Nos procedimentos de <b>JURISTIÇÃO VOLUNTÁRIA</b>, conforme <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art723">CAPÍTULO XV - DOS PROCEDIMENTOS DE JURISDIÇÃO VOLUNTÁRIA, arts. 719-723, do CPC</a></li>
+       <ul>
+         <li> <b>Art. 723</b>. O juiz decidirá o pedido no prazo de 10 (dez) dias.<br><b>parágrafo único</b>. O juiz não é obrigado a observar critério de legalidade estrita, podendo adotar em cada caso a solução que considerar mais conveniente ou oportuna.</li>
+       </ul>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-brocardo-quantur-debeatur">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-brocardo-juridico.png?raw=true" heigh="70" width="70"><br>
+      <b>Brocardo<br>Jurídico</b>
+    </td>
+    <td valign="top">
+     <p>
+       <i>quantur debeatur.</i><br>
+       <b>o quanto é devido.</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ##### Decisão COM equidade  
 
