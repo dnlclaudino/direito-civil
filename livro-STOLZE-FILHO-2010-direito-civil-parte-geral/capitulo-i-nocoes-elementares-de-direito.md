@@ -20,7 +20,6 @@
 
 # Capítulo I - Noções Elementares de Direito
 
-
 ## Objetivos do capítulo 
 
 - Ao iniciarmos os estudos do Direito Civil  é imprescindível o conhecimento de **PREMISSAS GERAIS** e **CONSIDERAÇÕES PROPEDÊUTICAS** da ciência jurídica:
@@ -310,7 +309,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   - **INDIRETAS**: 
     - Analogia;
     - Principios Gerais do Direito;
-    - OUTRAS FONTES auxiliares de interpretação:
+    - OUTRAS FONTES auxiliares de interpretação (p. 54, §1º):
       - Jurisprudência
       - Doutrina
       - Equidade
@@ -448,10 +447,9 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 ##### Quanto a SANÇÃO INSTITUCIONALIZADA ou AUTORIZAMENTO
 
 - Leis **Perfeitas**:
-  - São normas jurídicas cuja violação autoriza:
-    - A declaração de **NULIDADE** :
-      - Absoluta;
-      - Relativa;
+  - São normas jurídicas cuja violação autoriza a declaração de **NULIDADE DO ATO**:
+    - NULIDADE ABSOLUTA; **OU**
+    - NULIDADE RELATIVA
     - Exemplo: O ato ou negócio jurídico praticado com <u>vício de consentimento</u> é anulável (art. 171, II, do Código Civil de 2002)
 - Leis **Mais que Perfeitas**
   - São normas jurídicas cuja violação autorizam a aplicação de **DUAS SANÇÕES**:
@@ -460,9 +458,9 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
     - Exemplo: O casamento de pessoas casadas é vedado por lei (art. 1.521, VI, Código Civil 2002);
 - Leis **Menos que Perfeitas**
   - São normas jurídicas cuja violação:
-    - AUTORIZAM a aplicação de uma sanção ao violador; **E** 
-    - NÃO AUTORIZAM a nulidade do ato;
-  - Exemplo: Casamento do viúvo com os filhos do cônjugue falecido, antes de fazer o inventário do casal, com a partilha aos herdeiros (Código Civil de 1916 (antigo), art. 225):
+    - **AUTORIZAM** a aplicação de uma sanção ao violador; **E** 
+    - **NÃO AUTORIZAM** a nulidade do ato;
+  - Exemplo: No Código Civil de 1916 (antigo), art. 225, o casamento do viúvo com um os filhos do cônjugue falecido, <u>antes de fazer o inventário do casal</u>, com a partilha aos herdeiros:
     - Não IMPLICAVA em NULIDADE do ato;
     - Mas IMPLICAVA em perda do USUFRUTO LEGAL;
 - Leis **Imperfeitas**
@@ -523,57 +521,590 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
 ##### Quanto a HIERARQUIA
 
-- Constituição: É o fundamento do Direito Positivo de um ordenamento jurídico nacional;
-  - 
+- Constituição:
+  - É o fundamento do Direito Positivo de um ordenamento jurídico nacional;
 - Leis Infraconstitucionais:
-  - Tecnicamente, NÃO HÁ HIERARQUIA entre normas infraconstitucionais;
-  - EXISTEM matérias que EXIGEM:
+  - Tecnicamente, **NÃO HÁ HIERARQUIA** entre normas infraconstitucionais;
+  - Existem **MATERIAS** que **EXIGEM**:
     - Um determinado TIPO DE LEI infraconstitucional;
     - Um determinado RITO / PROCEDIMENTO de aprovação;
     - Um determinado QUORUM para aprovação;
     - Um determinado ÓRGÃO COMPETENTE para sua elaboração;
-  - Lei complementares
-  - Leis ordinárias
+  - São **ESPÉCIES** de leis infraconstitucionais
+    - Lei complementares
+    - Leis ordinárias
 - Decretos Regulamentares
-- Decreto-Lei
-- Medidas provisórias
-- Resolução do Poder Legislativo
-- Normas Internas (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
+  - São normas jurídicas elaboradas pelo PODER EXECUTIVO, com a FINALIDADE de:
+    - Explicitar o sentido técnico de uma lei;
+    - Dar condições de execução a lei;
+- <span style="background-color:yellow">Normas Internas</span> (Portarias, Resoluções, Regimentos, Regulamentos, Instruções Normativas)
+  - <span style="background-color:yellow">**NÃO** são leis **_STRICTU SENSU_**</span>;
+  - Tem por <u>finalidade</u> <span style="background-color:yellow">DISCIPLINAR SITUAÇÕES ESPECÍFICAS</span>, em especial, da Administração Pública;
 
 #### OS COSTUMES
 
+- O costume é uma FONTE DE DIREITO com **OBJETIVIDADE** menor que a LEI;
+- Sua **FORMULAÇÃO** exige **PROCEDIMENTO DIFUSO** que **NÃO SE REDUZ** a um **PROCEDIMENTO FORMAL**;
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE COSTUME ?</b></p>
+      O <b>COSTUME</b> é:
+       <ul>
+         <li> O uso <b>GERAL</b>,</li>
+         <li> O uso <b>CONSTANTE</b>,</li>
+         <li> O uso <b>NOTÓRIO</b>, </li>
+         <li> Observado <b>SOCIALMENTE</b> (necessidade social),</li>
+         <li> Correspondente a uma <b>NECESSIDADE JURÍDICA</b>;</li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+       <b>Verifique</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE <u>CARACTERIZA</u> UM COSTUME ?</b></p>
+      O <b>COSTUME</b> é CARACTERIZADO por <b>DOIS ELEMENTOS</b>:
+       <ul>
+         <li> Elemento <b>OBJETIVO</b> ou <b>SUBSTANCIAL</b>: </li>
+           <ul>
+             <li>O USO continuado de uma PRÁTICA no TEMPO</li>
+           </ul>
+         <li> Elemento <b>SUBJETIVO</b> ou <b>RELACIONAL</b>: </li>
+           <ul>
+             <li>CONVICÇÃO da OBRIGATORIEDADE da prática com uma NECESSIDADE SOCIAL</li>
+           </ul>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+- É a **CONVICÇÃO DA OBRIGATORIEDADE** (elemento subjetivo ou relacional do costume), que <span style="background-color:yellow">EXPLICA SOCIOLOGICAMENTE</span> o <span style="background-color:yellow">ENGAJAMENTO AO COSTUME PELO SILÊNCIO</span>:
+  - Ela tem fundamento numa EXPECTATIVA DE CONSENSO;
+  - Ela tem fundamento na SUPOSIÇÃO BEM-SUCEDIDA de que TODOS CONCORDAM;
+  - Ela tem fundamento na CAPACIDADE SOCIAL limitada para conceder ATENÇÃO a tudo o que ocorre;
+
+- O COSTUME tem sua **AUTORIDADE** respaldada na **FORÇA** conferida pelo **TEMPO** e pelo seu **USO CONTÍNUO**;
+
+- Na lição de **Gomes (2001, p. 43-44)**[^GOMES-2001], existe um INTERESSE PRÁTICO em explicar o FUNDAMENTO da FORÇA OBRIGATÓRIA do costume:
+  - OU a **autoridade do costume** se consagra pelo **RECONHECIMENTO DO LEGISLADOR** (tese da confirmação jurídica); 
+  - OU a **autoridade do costume** se consagra pela **ACEITAÇÃO DO JUIZ** (tese da aceitação pelo juiz);
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+       <b>Reflexão</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O FUNDAMENTO DA <u>FORÇA OBRIGATÓRIA</u> DO COSTUME?</b><br>segundo ORLANDO GOMES</p>
+      Para ORLANDO GOMES, para que o COSTUME seja ACEITO COM A AUTORIDADE que lhe é necessária, segundo a <b>TESE DA CONFIRMAÇÃO JURÍDICA</b>:
+       <ul>
+         <li>Deve ser <b>RECONHECIDO</b> e <b>APLICADO</b> pelos tribunais (JURISPRUDÊNCIA) </li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+#### O COSTUME PODE SER VISUALIZADO DE TRÊS FORMAS
+
+##### COSTUME _PRAETER LEGEM_
+
+- É o costume que visa **DISCIPLINAR MATÉRIA** que a lei **NÃO CONHECE**
+- Tem o **OBJETIVO** de <u>**SUPRIR a lei**</u> em suas **EVENTUAIS OMISSÕES**;
+- Exemplo: A lei silencia como o arrendatário deve tratar a propriedade arrendada. Nesse caso, deve-se recorrer aos costumes locais;
+
+##### COSTUME _SECUNDUM LEGEM_
+
+- A própria <u>**lei**</u> reconhece a **EFICÁCIA JURÍDICA** do costume;
+- Não é que o costume e a lei nesse caso sejam a mesma coisa, tendo em vista a impossibilidade de a lei prever todas as condutas possíveis
+  - Exemplo: O locatário deve pagar o aluguel pontualmente nos prazos ajustados. Na ausência desse ajuste, **segundo os costumes do lugar**.
+- Há de se falar, nessa presente categoria, o chamado **COSTUME INTERPRETATIVO**
+  - Brocardo do código de Direito canônico: "O costume é o melhor interprete da lei".
+
+##### COSTUME _CONTRA LEGEM_
+
+- É uma **MANIFESTAÇÃO SOCIAL**;
+- É o reconhecimento de uma prática que se opõe ao Direito legislado;
+- Não é admitido no Direito Positivo;
+- Pode se manifestar de **DUAS FORMAS**:
+  - **DESUSO** (_dessuetudo_):
+    - A lei **entra em VIGOR**;
+    - A lei <u>sequer chegou</u> a **gerar efeitos práticos**;
+    - A lei <u>**já NÃO CORRESPONDE**</u> a **REALIDADE**;
+    - A lei pode ser deixada de lado por terem surgido outras "regras" costumeiras;
+  - **COSTUME AB-ROGATÓRIO** (_consuetudo ab-rogatoria_):
+    - A norma jurídica teve eficácia por um tempo;
+    - A evolução dos valores sociais acaba por negá-la;
+    - Surge um NOVO COSTUME que <u>**se opõe a lei**</u>;
+- Pensadores de tendência RACIONALISTA, LEGALISTA ou FORMALISTA:
+  - Rejeitam o costume _CONTRA LEGEM_;
+  - Consideram o costume _CONTRA LEGEM_ **incompatível**:
+    - Com a **função do Estado**; e
+    - Com a **regra** de que uma lei somente se revoga por meio de outras leis;
+- Exemplos de costumes _CONTRA LEGEM_
+  - **#1**: Foi nitidamente aplicável em relação ao art. 178 do Código Civil de 1916: **ação anulatória por defloramento anterior da mulher**, já estavam em desuso (1) antes da constituição de 1988 e de sua revogação formal;
+  - **#2**: Consta relacionado ao art. 74 do Código Civil de 2002. Exige-se **prova de intenção de mudança de domicílio** "o que a pessoa declarar às municipalidades dos lugares, que deixa, e para onde vai". A **referida "declaração"** é uma regra que **NÃO POSSUI EFEITO JURÍDICO ALGUM**.
+
 ### Fontes INDIRETAS, SECUNDÁRIAS ou MEDIATAS do Direito
 
-- A analogia:
-- Os costumes:
-- Os princípios gerais de direito:
+#### Jurisprudência  
 
+- Também chamado(a) de:
+  - **COSTUME JUDICIÁRIO**;
+  - **CONSTRUÇÃO PRETORIANA**;
+- A palavra **JURISPRUDÊNCIA**
+  - Já foi empregada como sinônimo de **CIÊNCIA DO DIREITO**;
+- Segundo **Gangliano e Pamplona Filho (2010, p. 62)**:
+  - A JURISPRUDÊNCIA vem ganhando **contornos novos**;
+  - Que permite reconhecê-lo como **verdadeira fonte do Direito**
+  - A **FINALIDADE REAL** da **JURISPRUDÊNCIA**:
+    - É **readequar o sistema jurídico** a uma **nova conjugação de forças** SEM NEGAR as **premissas** do próprio **centro de poder** de que faz parte;
+    - É atender os **fins sociais** a que a lei se destina
+    - É atender as **exigências do bem comum**.
 
-### Costume  
-### Jurisprudência  
-### Doutrina  
-### Analogia  
-### Princípios gerais do Direito  
-### Equidade
-#### Decisão COM equidade  
-#### Decisão POR equidade  
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>O QUE É JURISPRUDÊNCIA ?</b></p>
+      <p>Atualmente, <b>JURISPRUDÊNCIA</b> significa:.</p>
+      <ul>
+        <li>"O <b><u>conjunto</u></b> das <b>reiteradas decisões</b> dos <u>tribunais</u> sobre determinada <b>matéria</b>".</li>
+        <li>É a complexa <b>reunião de julgados</b>, e não cada um deles isoladamente.</li>
+      </ul>
+      <p>Podemos evocar o seguinte brocardo jurídico:</p>
+       <ul>
+         <li>"A autoridade das coisas julgadas da mesma maneira"<br>(_rerum perpetuo similiter judicatorum auctoritas_)</li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+- Encontramos a jurisprudência quando ocorre o reconhecimento de uma conduta como obrigatória conforme o entendimento e pronunciamento dos tribunais;
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center;"><b>JURISPRUDÊNCIA ou JURISPRUDÊNCIAS ?</b></p>
+      <p>É um erro técnico usar a palavra <b>JURISPRUDÊNCIA</b> no <u>PLURAL</u> ("<span style="color:red;text-weight:bold;text-decoration:line-through">jurisprudências</span>").</p>
+    </td>
+  </tr>
+</table>
+
+- A jurisprudência é uma fonte auxiliar do Direito;
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>COSTUME E JURISPRUDÊNCIA <u>NÃO SÃO</u> A MESMA COISA</b></p>
+      <p>No <b>COSTUME</b>:</p>
+       <ul>
+         <li>Temos a criação de uma prática popular</li>
+         <li>Que nasce espontaneamente</li>
+         <li>Que decorre do que se considera como socialmente obrighatório</li>
+       </ul>
+      <p>Na <b>JURISPRUDÊNCIA</b>:</p>
+       <ul>
+         <li>É obra <u>exclusiva</u> da reflexão dos <b>operadores do direito</b></li>
+         <li>É obra das decisões de <b>juízes monocráticos</b></li>
+         <li>É obra das decisões dos <b>tribunais</b></li>
+       </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-questao-de-prova.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center;"><b>A JURISPRUDÊNCIA e a Lei de Introdução ao Código Civil</b></p>
+      <p>A JURISPRUDÊNCIA é <u>inequivocamente</u> uma fonte do Direito (fonte indireta, auxiliar, mediata ou secundária, conforme vimos na p. 54, §1º).</p>
+      <p>Ocorre que a <a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657compilado.htm">Lei de Introdução ao Código Civil (Decreto-Lei 4.657/1942)</a> não menciona a <b>JURISPRUDÊNCIA <u>expressamente</u></b> como fonte do Direito, nem no artigo 4º, nem nos demais.</p>
+      <p><span style="background-color:yellow"><b>MUITA ATENÇÃO</b>, pois isso pode ser cobrado em prova!</span></p>
+    </td>
+  </tr>
+</table>
+
+- A JURISPRUDÊNCIA PACÍFICA nos tribunais
+  - NÃO OBRIGA JURIDICAMENTE, mas acaba prevalecendo <u>na maioria</u> dos casos;
+  - É HIPÓTESE de admissibilidade de RECURSO EXTRAORDINÁRIO (_latu sensu_) a eventual violação ao entendimento das respectivas cortes abaixo:
+    - No STF (Recurso Extraordinário);
+    - No STJ (Recurso Especial);
+    - No TST (Recurso de Revista).
+
+##### JURISPRUDENCIA _CONTRA LEGEM_
+
+- Conforme o entendimento de **Machado Neto (1963, p. 13)**[^MACHADO-1963] da UFBA:
+  - Sem que possa ser tomado como regra, quando a **jurisprudência _contra legem_** ocorre e logra vigência e eficácia, não há de se negar a **condição de efetivo Direito**.
+  - Na opinião de Machado Neto: "Qual será o Direito de um povo ? A lei que ninguém acata ou a jurisprudência, embora _contra legem_, mas que os tribunais vêm seguindo e acatando?"
+  - O autor <u>**considera EXAGERO**</u> a proposição da **ESCOLA DO DIREITO JUSTO** de **Hermann Kantorowicz**.
+    - Tal escola <u>propugnava a prática da **jurisprudência _contra legem_** como a **REGRA GERAL**</u> em nome da **JUSTIÇA** e da **ELABORAÇÃO ESPONTÂNEA DO DIREITO**.
+
+<table id="capitulo-i-exemplo-jurisprudencia-contra-legem" border="1">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>ACEITAÇÃO DA PRÁTICA JURISPRUDENCIAL DO CHEQUE-PRÉDATADO</b></p>
+     <p>1) A <b><a href="https://www.planalto.gov.br/ccivil_03/leis/l7357.htm">lei nº 7.357, DE 2 DE SETEMBRO DE 1985</a></b> que dispõe sobre o cheque e dá outras providências, contém dispositivo que afirma:</p>
+     <ul>
+       <li><b>Art. 32</b> O cheque é pagável à vista. Considera-se não-estrita qualquer menção em contrário."
+       </li>
+       <ul>
+         <li><b>Parágrafo único</b> - O cheque apresentado para pagamento antes do dia indicado como data de emissão é pagável no dia da apresentação.</li>
+       </ul>
+     </ul>
+     <p>2) O <b><a href="https://www.planalto.gov.br/ccivil_03/leis/l7357.htm">Decreto-Lei nº 2.848/1940, DE 7 DE SETEMBRO DE 1940</a></b> (Código Penal) dispõe que:</p>
+     <ul>
+       <li><b>Estelionato</b><br><b>Art. 171</b> Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:
+       </li>
+       <ul>
+         <li><b>Pena</b> - reclusão, de um a cinco anos, e multa, de quinhentos mil réis a dez contos de réis.    (Vide Lei nº 7.209, de 1984)</li>
+         <li><b>§ 1º</b> - Se o criminoso é primário, e é de pequeno valor o prejuízo, o juiz pode aplicar a pena conforme o disposto no art. 155, § 2º.</li>
+         <li><b>§ 2º</b> - Nas mesmas penas incorre quem:</li>
+         <ul>
+           <li><b>VI</b> - emite cheque, sem suficiente provisão de fundos em poder do sacado, ou lhe frustra o pagamento. (Fraude no pagamento por meio de cheque)</li>
+         </ul>
+       </ul>
+     </ul>
+     <p>3) Encontramos a <b>Súmula STJ nº 246</b> que afima: "Comprovado não ter havido fraude, não se configura o crime de emissão de cheque sem fundos."</p>
+    </td>
+  </tr>
+</table>
+
+#### Doutrina
+
+<table id="capitulo-i-quadro-definicao-doutrina">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>A <b>Doutrina</b> é a <b>opinião <u>comum</u></b> dos juristas, dos doutos.</p>
+     <p>No sistema <b>Civil law</b>, a <b>DOUTRINA</b>:</p>
+     <ul>
+       <li><u>NÃO POSSUI IMPOSIÇÃO</u> ao seu acatamento;</li>
+       <li>Confere <b>UNIFORMIDADE</b> a <b>conceitos legais</b> <u>vagos</u> e <u>ambíguos</u></li>
+       <li>É responsável pela <b>DEFINIÇÃO</b> de alguns <b>conceitos indeterminados</b>;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<center>
+
+```mermaid
+mindmap
+(("CONCEITOS LEGAIS<br><u>Vagos</u> e <u>Ambíguos</u>"))
+  Mulher honesta
+  justa causa
+  absoluta<br>impossibilidade
+```
+
+</center>
+
+- A Doutrina acaba sendo **fonte do Direito** pois continuamente:
+  - Propõe soluções;
+  - Inova;
+  - Interpreta;
+  - Preenche (colmatar) lacunas;
+- Sua autoridade como **base de ORIENTAÇÃO para interpretar** o Direito **é irrecusável**.
+
+#### Analogia
+
+<table id="capitulo-i-quadro-definicao-analogia">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>É um meio supletivo em caso de <b>LACUNA DA LEI</b>.<br><b>NÃO</b> é uma <b>FONTE DO DIREITO</b></p>
+     <p>Para <b>Souza Neto (2000, p. 25)</b><sup>*</sup>:</p>
+     <ul>
+       <li>A <b>ANALOGIA</b> é uma forma típica de raciocínio;</li>
+       <li>Se <b>estende</b> a uma <b>espécie de fato</b> (<i>facti species</i>) de uma norma a <b>situações SEMELHANTES</b> para as quais em não havia sido prevista, em princípio;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-analogia-como-funciona">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>
+      <b>Atenção</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>COMO FUNCIONA A ANALOGIA ?</b></p>
+     <ul>
+       <li>Havendo <b>OMISSÃO LEGAL</b>, o <b>JUIZ</b> aplicará ao <b>CASO CONCRETO</b> a <b>NORMA JURÍDICA</b> prevista em <b>SITUAÇÃO <U>SEMELHANTE</U></b> (<a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657.htm#art4">Decreto-lei 4.657/1942 - LINDB, Art. 4</a>)
+       </li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-analogia-formas">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+      <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>AS DUAS FORMAS DA ANALOGIA</b></p>
+     A <b>ANALOGIA</b> pode se manifestar de <b>DUAS FORMAS</b>:
+     <ul>
+       <li><b>ANALOGIA <u><i>LEGIS</i></u></b>:</li>
+       <ul>
+         <li>Quando, <u>INEXISTINDO A LEI</u>, aplica-se <b>OUTRA NORMA JURÍDICA</b> ao caso <i>sub judice</i></li>
+       </ul>
+       <li><b>ANALOGIA <i>JURIS</i></b>:</li>
+       <ul>
+         <li>Quando, <u>INEXISTINDO A LEI</u>, aplica-se um <b>PRINCÍPIO GERAL DO DIREITO</b> ao caso <i>sub judice</i></li>
+       </ul>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-exemplo-analogia-contrato-hospedagem" border="1">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>EXEMPLO DE ANALOGIA <i>LEGIS</i></b></p>
+     <p>1) O <b>Contrato de HOSPEDAGEM</b> é considerado <b>atípico (não existe legislação que o discipline)</b></p>
+     <p>2) Como <b>NÃO EXISTE NORMA JURÍDICA</b>, o juiz poderá invocar, <b>POR ANALOGIA (LEGIS)</b>, as <b>REGRAS</b>:</p>
+     <ul>
+       <li>Dos contratos de DEPÓSITO;</li>
+       <li>Dos LOCAÇÃO DE SERVIÇOS;</li>
+       <li>Dos contratos de COMPRA E VENDA.</li>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-exemplo-analogia-fixar-valor-da-causa" border="1">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>EXEMPLO DE ANALOGIA <i>LEGIS</i></b></p>
+     <p>1) A <b>ação de exonexação de PAGAMENTO DE ALIMENTOS</b> exige a fixação do <b>VALOR DA CAUSA</b>. A lei silencia quanto a isso;</p>
+     <p>2) Observado o <b>Código de Processo Civil</b>, verifica-se haver NORMA JURÍDICA para caso semelhante. Trata-se da fixação do <b>VALOR DA CAUSA</b> para <b>AÇÃO DE ALIMENTOS</b>, tratada no art. 292, III (CPC);</p>
+     <p>3) <b>Código de Processo Civil</b>, Art. 292. O valor da causa constará da petição inicial ou da reconvenção e será:<br><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III</b> - na ação de alimentos, a soma de 12 (doze) prestações mensais pedidas pelo autor; </p>
+     <p>4) Ou seja, por <b>ANALOGIA <i>LEGIS</i></b>, essa hipótese da <b>fixação do valor da causa</b> do art. 292, III (CPC) <u>não prevista</u> para a <b>ação de exoneração de alimentos <b>FOI APLICADA</b>.</b> A esse respeito, temos a </p>
+    </td>
+  </tr>
+</table>
+
+#### Princípios Gerais do Direito
+
+<table id="capitulo-i-quadro-definicao-principios-gerais-do-direito">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>São postulados que procuram FUNDAMENTAR TODO O SISTEMA JURÍDICO.</p>
+     <p>Eles não tem, NECESSARIAMENTE, correspondência positivada equivalente.</p>
+     <p>NÃO É FONTE FORMAL do Direito.</p>
+     <ul>
+       <li>A <b>ANALOGIA</b> é uma forma típica de raciocínio;</li>
+       <li>Se <b>estende</b> a uma <b>espécie de fato</b> (<i>facti species</i>) de uma norma a <b>situações SEMELHANTES</b> para as quais em não havia sido prevista, em princípio;</li>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+- Há quem os reduza aos BROCARDOS ROMANOS:
+
+<table id="capitulo-i-quadro-brocardo-XXX">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-brocardo-juridico.png?raw=true" heigh="70" width="70"><br>
+      <b>Brocardo<br>Jurídico</b>
+    </td>
+    <td valign="top">
+     <p>
+       <i>generalibus juri principii.</i><br>
+       <b>princípios gerais de direito.</b>
+      </p>
+      <p>
+       <i>suum cuique tribuere.</i><br>
+       <b>o que lhe é devido.</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+- Para **Orlando Gomes (2001, p. 49-50)**[^GOMES-2001]:
+  - Os **princípios gerais do Direito**:
+    - **NÃO DEVEM SER ENTENDIDOS** como:
+      - Princípios de validade geral;
+      - Princípios segregados do Direito Natural;
+      - Princípios absolutos;
+    - **DEVEM SER ENTENDIDOS** como:
+      - Princípios histórico-concretos (pertencentes a determinada ordem jurídica);
+  - Há **QUEM DEFENDA**:
+    - Que QUANDO o juiz decide com base nos princípios gerais do direito (ideias jurídicas gerais) expressas no ordenamento jurídico, ele <b>FUNDAMENTA SUA SENTENÇA <u>AINDA NA LEI</u></b>;
+    - Que os princípios gerais do Direito são o ÚLTIMO REFÚGIO do juiz:
+      - Quando a <u>**LEI** for omissa</u>;
+      - Quando <u>falhe a **ANALOGIA**</u>;
+      - Quando <u>não existam</u> **COSTUMES** adequados para o caso contreto;
+  - Há **QUEM DEFENDA**:
+    - Que os princípios gerais do Direito <b>VINCULAM</b> mesmo <u>SEM ESTAR CUNHADOS</u> <b>legislativa</b> ou <b>judicialmente</b>;
+    - Que os princípios gerais do Direito <b>SÓ VINCULAM</b> <u>apenas</u> se <u>ESTIVEREM CUNHADOS</u> <b>legislativa</b> ou <b>judicialmente</b>;
+      - Nesse caso, os princípios gerais do Direito **SÃO <u>FONTES FORMAIS</u> DO DIREITO**.
+
+#### Equidade
+
+<table id="quadro-definicao-equidade">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>CONCEITO DE EQUIDADE</b></p>
+     <p>Segundo <b>Aristóteles</b>: "É a justiça do caso concreto."</p>
+     <p>Não é uma ideia que se opõe ao <u><b>conceito de justiça</b></u>, mas de uma ideia cue <u>completa esse conceito</u>, podendo chegar até a <b>atenuar o rigor da norma</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-citacao-norma-juridica-lei-n-13105-2015-art-127">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-citacao.png?raw=true" heigh="80" width="80"><br>
+      <b>Código de Processo Civil<br><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art127">Lei nº 13.105/2015<br>Art. 140</a></b>
+    </td>
+    <td valign="top">
+     <p><b>Art. 140</b>. O juiz não se exime de decidir sob a alegação de lacuna ou obscuridade do ordenamento jurídico.</p>
+     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>parágrafo único</b>. O juiz só decidirá por equidade nos casos previstos em lei. </p>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-nao-cometa-erros-julgamento-com-equidade-por-equidade">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+      <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>JULGAMENTO: <u>POR</u> EQUIDADE e <u>COM</u> EQUIDADE</b></p>
+     <p><b>1) JULGAMENTO <u>COM</u> EQUIDADE</b>: Todo julgamento DEVE ser COM EQUIDADE, ou seja, buscando a justiça do caso concreto.</p>
+     <p><b>2) JULGAMENTO <u>POR</u> EQUIDADE</b>:</p>
+      <ul> 
+       <li>Só pode ocorrer nos casos <b>EXPRESSAMENTE PREVISTOS EM LEI</b>, conforme CPC, <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art127">Lei nº 13.105/2015, art. 140, parágrafo único.</a></li>
+       <li>É uma situação <b>EXCEPCIONAL</b></li>
+       <li>Nesse caso, a própria LEI atribui ao juiz a possibilidade de <u>JULGAR SEGUNDO <b>O ENTENDIMENTO DELE</b></u>.</li>
+       <li>Em todos esses casos, o juiz <b>NÃO FICA ADSTRITO</b> às regras de interpretação ou métodos de interpretação preestabelecidos, vinculado apenas a:</li>
+       <ul>
+         <li>Sua consciência;</li>
+         <li>Sua percepção de justiça;</li>
+         <li>Sua própria racionalização do problema;</li>
+       </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-exemplo-decisao-por-equidade">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">
+    </td>
+    <td valign="top">
+    <p style="text-align:center"><b>EXEMPLO de decisões <u>POR</u> EQUIDADE</b></p>
+     Admite-se decisões por equidade, por exemplo, nos casos abaixo:<br>
+     <ul>
+       <li>Fixação de honorários;</li>
+       <li>Nas execuções em que se delega ao arbítrio do julgador a fixação do <i>quantur debeatur.</i></li>
+       <li>Nos procedimentos de <b>JURISTIÇÃO VOLUNTÁRIA</b>, conforme <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art723">CAPÍTULO XV - DOS PROCEDIMENTOS DE JURISDIÇÃO VOLUNTÁRIA, arts. 719-723, do CPC</a></li>
+       <ul>
+         <li> <b>Art. 723</b>. O juiz decidirá o pedido no prazo de 10 (dez) dias.<br><b>parágrafo único</b>. O juiz não é obrigado a observar critério de legalidade estrita, podendo adotar em cada caso a solução que considerar mais conveniente ou oportuna.</li>
+       </ul>
+     <ul>
+    </td>
+  </tr>
+</table>
+
+<table id="capitulo-i-quadro-brocardo-quantur-debeatur">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-brocardo-juridico.png?raw=true" heigh="70" width="70"><br>
+      <b>Brocardo<br>Jurídico</b>
+    </td>
+    <td valign="top">
+     <p>
+       <i>quantur debeatur.</i><br>
+       <b>o quanto é devido.</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+##### Decisão COM equidade  
+
+##### Decisão POR equidade  
+
 ## Algumas palavras sobre os sistemas jurídicos (Civil Law e Common Law)  
+
 ## A dicotomia entre o Direito público e Direito privado e a taxonomia do Direito Civil  
+
 ## Conceito doutrinário e histórico do Direito Civil  
+
 ## Conteúdo do Código Civil 
 
 # Referências bibliográficas do capítulo
 
-[^MONTEIRO-2000]: MONTEIRO, Washington de Barros. Curso de Direito Civil: Parte Geral. 37.ed. São Paulo: Saraiva, 2000. v. 1.
-
-[^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/ Acesso em: 16 dez. 2023
-
-[^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
+[^ADEODATO-1996]: ADEODATO, João Maurício. Filosofia do Direito: Uma crítica à Verdade na Ética e na Ciência. São Paulo:Sairava, 1996.
 
 [^CARNELUTTI-1999]: CARNELUTTI, Francesco. Teoria Geral do Direito. São Paulo: Lejus, 1999.
 
+[^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/ Acesso em: 16 dez. 2023
+
+[^GOMES-2001]: GOMES, Orlando. Introdução ao Direito Civil. Rio de Janeiro:Forense, 2001.
+
 [^MACHADO-1963]: MACHADO NETO, Antônio Luiz. Introdução à Ciência do Direito (Sociologia Jurídica). São Paulo: Saraiva, 1963. v. 2.
 
-[^ADEODATO-1996]: ADEODATO, João Maurício. Filosofia do Direito: Uma crítica à Verdade na Ética e na Ciência. São Paulo:Sairava, 1996.
+[^MONTEIRO-2000]: MONTEIRO, Washington de Barros. Curso de Direito Civil: Parte Geral. 37.ed. São Paulo: Saraiva, 2000. v. 1.
+
+[^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
+
+[^SOUZA-NETO-2000]: SOUZA NETO, João Baptista de Mello. Direito Civil: Parte Geral. 3.ed. São Paulo: Atlas, 2000
 
 [^VENOSA-2001]: VENOSA, Silvo de Salvo. Direito Civil: Parte Geral. São Paulo: Atlas, 2001.
