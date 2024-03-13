@@ -6,21 +6,21 @@
       </a>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/direito-civil#readme">
+      <a href="https://github.com/dnlclaudino/direito-civil#readme"> 
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
-      </a>
+      </a> 
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/direito-civil#readme">
+      <!-- <a href="https://github.com/dnlclaudino/direito-civil#readme"> -->
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
-      </a>
+      <!-- </a> -->
     </td>
   </tr>
 </table><br><br><br><br><br>
 
 # Capítulo 01 - Noções Elementares de Direito
 
-## Objetivos do capítulo 
+## Objetivos do capítulo
 
 - Ao iniciarmos os estudos do Direito Civil  é imprescindível o conhecimento de **PREMISSAS GERAIS** e **CONSIDERAÇÕES PROPEDÊUTICAS** da ciência jurídica:
   - Noções e acepções da palavra "direito";
@@ -109,10 +109,10 @@
 
 #### OUTRAS ACEPÇÕES DA PALAVRA DIREITO
 
-  - A palavra "direito" é **PLURISSIGNIFICATIVA**;
-  - Para os autores, a expressão normalmente utilizada "**classificações do direito**" não parece adequada, pois:
-    - Não trata-se de **formas diferente de direito**;
-    - Trata-se da **diversidade de denominações** da **palavra "direito"**;
+- A palavra "direito" é **PLURISSIGNIFICATIVA**;
+- Para os autores, a expressão normalmente utilizada "**classificações do direito**" não parece adequada, pois:
+  - Não trata-se de **formas diferente de direito**;
+  - Trata-se da **diversidade de denominações** da **palavra "direito"**;
 
 ##### DIREITO OBJETIVO
 
@@ -139,7 +139,7 @@
 ##### DIREITO NATURAL
 
 - Refere-se a um **ORDENAMENTO JURÍDICO IDEALIZADO** que simboliza o **SENTIMENTO DE JUSTIÇA** de uma COMUNIDADE.
- 
+
 ##### DIREITO NACIONAL E INTERNACIONAL
 
 - **DIREITO NACIONAL:**
@@ -296,8 +296,6 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 
 - A **CLASSIFICAÇÃO** das **FONTES DO DIREITO** toma as características de  **SEGURANÇA** e **CERTEZA** para o estabelecimento de uma **HIERARQUIA DE PREVALÊNCIA** (qual vem primeiro) no ordenamento jurídico;
 
-
-
 ## Classificação das Fontes do Direito
 
 - A classificação das fontes de direito depende de **CRITÉRIO METODOLÓGICO** adotado;
@@ -306,7 +304,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
   - **DIRETAS**:
     - Lei (fonte primordial do Direito brasileiro); e
     - Costumes (fonte de diversas normas)
-  - **INDIRETAS**: 
+  - **INDIRETAS**:
     - Analogia;
     - Principios Gerais do Direito;
     - OUTRAS FONTES auxiliares de interpretação (p. 54, §1º):
@@ -330,7 +328,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 - A expressão "**LEGISLAÇÃO**" é **gênero** de que derivam várias **espécies**;
 - A **LEI**:
   - É a mais importante fonte do ORDENAMENTO POSITIVO e do Direito brasileiro;
-  - É onde encontra-se <u>TODA A</u> ESPERANÇA e EXPECTAVIDA de **SEGURANÇA** e **ESTABILIDADE** que se espera de um **SISTEMA POSITIVADO**; 
+  - É onde encontra-se <u>TODA A</u> ESPERANÇA e EXPECTAVIDA de **SEGURANÇA** e **ESTABILIDADE** que se espera de um **SISTEMA POSITIVADO**;
 - Para **Venosa (2001, p. 33)**[^VENOSA-2001]:
 
 <table>
@@ -386,7 +384,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
           <ul>
             <li>É a consequência para o <b>DESCUMPRIMENTO</b> de <b>dever jurídico</b> aplicada de maneira institucionalizada;</li>
             <li>Decorre não apenas da lei em si, mas do <b>PRÓPRIO ORDENAMENTO JURÍDICO;</b></li>
-          </ul> 
+          </ul>
          <li><b>PERMANÊNCIA</b> : Uma lei só deixa de existir:</li>
          <ul>
            <li>Via de regra, quando outra lei a REVOGAR, expressa ou tacitamente;</li>
@@ -458,7 +456,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
     - Exemplo: O casamento de pessoas casadas é vedado por lei (art. 1.521, VI, Código Civil 2002);
 - Leis **Menos que Perfeitas**
   - São normas jurídicas cuja violação:
-    - **AUTORIZAM** a aplicação de uma sanção ao violador; **E** 
+    - **AUTORIZAM** a aplicação de uma sanção ao violador; **E**
     - **NÃO AUTORIZAM** a nulidade do ato;
   - Exemplo: No Código Civil de 1916 (antigo), art. 225, o casamento do viúvo com um os filhos do cônjugue falecido, <u>antes de fazer o inventário do casal</u>, com a partilha aos herdeiros:
     - Não IMPLICAVA em NULIDADE do ato;
@@ -597,7 +595,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 - O COSTUME tem sua **AUTORIDADE** respaldada na **FORÇA** conferida pelo **TEMPO** e pelo seu **USO CONTÍNUO**;
 
 - Na lição de **Gomes (2001, p. 43-44)**[^GOMES-2001], existe um INTERESSE PRÁTICO em explicar o FUNDAMENTO da FORÇA OBRIGATÓRIA do costume:
-  - OU a **autoridade do costume** se consagra pelo **RECONHECIMENTO DO LEGISLADOR** (tese da confirmação jurídica); 
+  - OU a **autoridade do costume** se consagra pelo **RECONHECIMENTO DO LEGISLADOR** (tese da confirmação jurídica);
   - OU a **autoridade do costume** se consagra pela **ACEITAÇÃO DO JUIZ** (tese da aceitação pelo juiz);
 
 <table>
@@ -768,7 +766,7 @@ Na lição de **Perelman (1996, p. 298)**: [^PERELMAN-1996]
 <table id="capitulo-i-exemplo-jurisprudencia-contra-legem" border="1">
   <tr>
     <td align="center" width="140px">
-      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">
     </td>
     <td valign="top">
      <p style="text-align:center"><b>ACEITAÇÃO DA PRÁTICA JURISPRUDENCIAL DO CHEQUE-PRÉDATADO</b></p>
@@ -898,7 +896,7 @@ mindmap
 <table id="capitulo-i-exemplo-analogia-contrato-hospedagem" border="1">
   <tr>
     <td align="center" width="140px">
-      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">
     </td>
     <td valign="top">
      <p style="text-align:center"><b>EXEMPLO DE ANALOGIA <i>LEGIS</i></b></p>
@@ -916,7 +914,7 @@ mindmap
 <table id="capitulo-i-exemplo-analogia-fixar-valor-da-causa" border="1">
   <tr>
     <td align="center" width="140px">
-      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">      
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">
     </td>
     <td valign="top">
      <p style="text-align:center"><b>EXEMPLO DE ANALOGIA <i>LEGIS</i></b></p>
@@ -1027,7 +1025,7 @@ mindmap
      <p style="text-align:center"><b>JULGAMENTO: <u>POR</u> EQUIDADE e <u>COM</u> EQUIDADE</b></p>
      <p><b>1) JULGAMENTO <u>COM</u> EQUIDADE</b>: Todo julgamento DEVE ser COM EQUIDADE, ou seja, buscando a justiça do caso concreto.</p>
      <p><b>2) JULGAMENTO <u>POR</u> EQUIDADE</b>:</p>
-      <ul> 
+      <ul>
        <li>Só pode ocorrer nos casos <b>EXPRESSAMENTE PREVISTOS EM LEI</b>, conforme CPC, <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art127">Lei nº 13.105/2015, art. 140, parágrafo único.</a></li>
        <li>É uma situação <b>EXCEPCIONAL</b></li>
        <li>Nesse caso, a própria LEI atribui ao juiz a possibilidade de <u>JULGAR SEGUNDO <b>O ENTENDIMENTO DELE</b></u>.</li>
@@ -1087,7 +1085,7 @@ mindmap
 
 ## Conceito doutrinário e histórico do Direito Civil  
 
-## Conteúdo do Código Civil 
+## Conteúdo do Código Civil
 
 # Referências bibliográficas do capítulo
 
@@ -1095,7 +1093,7 @@ mindmap
 
 [^CARNELUTTI-1999]: CARNELUTTI, Francesco. Teoria Geral do Direito. São Paulo: Lejus, 1999.
 
-[^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/ Acesso em: 16 dez. 2023
+[^GODOY-2014]: GODOY, Arnaldo Sampaio de Morais. Gustav Radbruch e seu pensamento em “Cinco Minutos de Filosofia do Direito”. CONSULTOR JURÍDICO (CONJUR), 22 de jun. de 2014.  Disponível em: <https://www.conjur.com.br/2014-jun-22/gustav-radbruch-pensamento-cinco-minutos-filosofia-direito/> Acesso em: 16 dez. 2023
 
 [^GOMES-2001]: GOMES, Orlando. Introdução ao Direito Civil. Rio de Janeiro:Forense, 2001.
 
@@ -1105,6 +1103,5 @@ mindmap
 
 [^PERELMAN-1996]: PERELMAN, Chaim. Ética e Direito. São Paulo:Martins Fontes, 1996.
 
-[^SOUZA-NETO-2000]: SOUZA NETO, João Baptista de Mello. Direito Civil: Parte Geral. 3.ed. São Paulo: Atlas, 2000
 
 [^VENOSA-2001]: VENOSA, Silvo de Salvo. Direito Civil: Parte Geral. São Paulo: Atlas, 2001.
