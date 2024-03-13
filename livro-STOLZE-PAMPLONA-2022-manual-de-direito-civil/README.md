@@ -40,17 +40,17 @@ GANGLIANO, Pablo Stolze; FILHO, Rodolfo Pamplona. Manual de Direito Civil. 6.ed.
 
 ### [Capítulo 2 - Pessoa Natural](./capitulo-02-pessoa-natural.md)
 
-### Capítulo 3 - Pessoa Jurídica
+### [Capítulo 3 - Pessoa Jurídica](./capitulo-03-pessoa-juridica.md)
 
-### Capítulo 4 - Domicílio
+### [Capítulo 4 - Domicílio](./capitulo-04-domicilio.md)
 
-### Capítulo 5 - Bens
+### [Capítulo 5 - Bens](capitulo-05-bens.md)
 
 ## DOS FATOS JURÍDICOS
 
-### Capítulo 6 - Fato Jurídico
+### [Capítulo 6 - Fato Jurídico](./capitulo-06-fato-juridico.md)
 
-### Capítulo 7 - Prescrição e Decadência
+### [Capítulo 7 - Prescrição e Decadência](./capitulo-07-prescricao-e-decadencia.md)
 
 <center><h2>PARTE ESPECIAL</h2></center>
 
