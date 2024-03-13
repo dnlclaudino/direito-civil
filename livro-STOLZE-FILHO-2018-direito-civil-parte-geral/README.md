@@ -30,7 +30,7 @@ GANGLIANO, Pablo Stolze; FILHO, Rodolfo Pamplona. Novo curso de direito civil: P
 
 ## Sumário
 
-### [Capítulo I - Noções Elementares de Direito](./capitulo-i-nocoes-elementares-de-direito.md)
+### [Capítulo I - Noções Elementares de Direito](./capitulo-01-nocoes-elementares-de-direito.md)
 
 1. Objetivo do capítulo  
 2. Noções propedêuticas de Direito  
@@ -63,7 +63,7 @@ GANGLIANO, Pablo Stolze; FILHO, Rodolfo Pamplona. Novo curso de direito civil: P
 3.5. Aplicação espacial de normas  
 3.6. Conflito de normas no espaço  
 
-### [Capítulo IV - Pessoa Natural](./capitulo-04-pessoa-natural.md)
+### Capítulo IV - Pessoa Natural
 
 ### Capítulo V - Direitos da Personalidade
 
