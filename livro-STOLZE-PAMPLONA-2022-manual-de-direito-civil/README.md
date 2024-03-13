@@ -18,7 +18,7 @@
   </tr>
 </table><br><br><br><br><br><br>
 
-# Livro - Novo Curso de Direito Civil - Volume I - Parte Geral
+# Livro - Manual de Direito Civil (Volume Único)
 
 ## Como referenciar esta obra ?
 
