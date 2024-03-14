@@ -32,6 +32,8 @@
     - Quando Surge a Pessoa Natural ?
     - Existem CONDIÇÕES além do NASCIMENTO COM VIDA ?
     - O nascituro
+    - Quais os DIREITOS DO NASCITURO ?
+    - E Quais os DIREITOS DO NATIMORTO ?
   - Capacidade
     - Incapacidade absoluta
     - Incapacidade relativa
@@ -48,6 +50,9 @@
       - Ausência
       - Justificação de óbito
       - Morte simultânea (comoriência)
+  - Índice Onomástico
+  - Normas Jurídicas Relacionadas
+  - Julgados e Jurisprudência Relacionada
   - Referências Bibliográficas
 
 <!-- /TOC -->
@@ -61,7 +66,6 @@
   - <span style="background-color:lightgreen"><b>Inicia-se</b></span> pelo estudo da <span style="background-color:yellow">**PESSOA NATURAL**</span>
 
 ### 1.1. Conceito
-
 <table border="1" id="quadro-conceito-personalidade-juridica">
 <tr>
   <td align="center" valign="top"width="140px" style="border-right-style:hidden">
@@ -329,22 +333,6 @@
 - Lei nº 10.406/2002: Código Civil brasileiro (CC 2002);
 - Lei nº 3.071/1916: Código Civil dos Estados Unidos do Brasil (CC 1016);
 - Lei nº 11.804/2008: Disciplina o direito a alimentos gravídicos e a forma como ele será exercido e dá outras providências[^BRASIL-LEI-11804-2008]
-
-## Julgados e Jurisprudência Relacionada
-
-- **Supremo Tribunal Federal (STF)**
-  - **Tipo de Processo**: Reclamação
-  - **Decisão**: 
-  - **Número**: 2040[^STF-RECLAMACAO-2040-2002]
-  - **Data do Julgamento**: 21/02/2002
-  - **Ementa**:
-
-- **Tribunal de Justiça do Rio Grande do Sul (TJRS)**
-  - **Tipo de Processo**: Apelação Cívil
-  - **Decisão**: ACORDÃO
-  - **Número**: 70002027910[^TJ-RS-APELACAO-CIVIL-70002027910-2001]
-  - **Data do Julgamento**: 28/03/2001
-  - **Ementa**: SEGURO-OBRIGATORIO. ACIDENTE. ABORTAMENTO. DIREITO A PERCEPCAO DA INDENIZACAO . O NASCITURO GOZA DE PERSONALIDADE JURIDICA DESDE A CONCEPCAO. O NASCIMENTO COM VIDA DIZ RESPEITO APENAS A CAPACIDADE DE EXERCICIO DE ALGUNS DIREITOS PATRIMONIAIS. APELACAO A QUE SE DA PROVIMENTO. (5 FLS.) (Apelação Cível, Nº 70002027910, Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Carlos Alberto Alvaro de Oliveira, Julgado em: 28-03-2001). Assunto: 1. JUROS DE MORA. TAXA. INCIDENCIA. TERMO INICIAL. DIES-A-QUO. 2. HONORARIOS ADVOCATICIOS. FIXACAO. PERCENTAGEM SOBRE O VALOR DA CONDENACAO. 3. ACIDENTE DE TRANSITO . ABORTO. NASCITURO. INDENIZACAO. NEXO CAUSAL. ONUS DA PROVA. 4. ACIDENTE DE TRANSITO. SEGURO OBRIGATORIO. ACAO DE COBRANCA. LEGITIMACAO PASSIVA.
 
 ## Referências Bibliográficas
 
