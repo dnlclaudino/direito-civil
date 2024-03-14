@@ -21,7 +21,7 @@ Repositório para Gestão do Conhecimento de Direito Civil.
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Livro |[Livro - Manual de Direito Civil: Volume Único. 6.ed.](./livro-STOLZE-PAMPLONA-2022-manual-de-direito-civil/README.md)<br>**PABLO STOLZE GANGLIANO<br>RODOLFO PAMPLONA FILHO** | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brGSLRzAlv3Ruj6lq?e=guFv4v) | - |
+| 1 | Livro |[Livro - Manual de Direito Civil: Volume Único. 6.ed.](./livro-STOLZE-PAMPLONA-2022-manual-de-direito-civil/README.md)<br>**PABLO STOLZE GANGLIANO<br>RODOLFO PAMPLONA FILHO** | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhs4ZK6HCEGKrqAho-A?e=hwz44O) | - |
 | 2 | Livro |**PABLO STOLZE GANGLIANO<br>RODOLFO PAMPLONA FILHO**<br>[Livro - Novo curso de Direito Civil: parte geral. 12.ed.](./livro-STOLZE-PAMPLONA-2010-direito-civil-parte-geral/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brGSLRzAlv3Ruj6lq?e=guFv4v) | - |
 | 3 | Livro |[Livro - Direito Civil Brasileiro: Parte Geral. 10.ed.](./livro-GONCALVEZ-2012-direito-civil-brasileiro-parte-geral/README.md)<br>**CARLOS ROBERTO GONÇALVES** | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brFibh9Ri-dBqnVxv?e=BrtUtc) | - |
 | 4 | Livro |[Livro - Direito Civil: parte geral. 13.ed.](./livro-VENOSA-2013-direito-civil-parte-geral/README.md)<br>**SILVIO SALVO VENOSA** | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brF5ur6eDdtkez0h0?e=75k2Ek) | - |
