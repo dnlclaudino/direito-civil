@@ -87,6 +87,21 @@
     - Atualizou a expressão "homem" para "pessoa";
 - A <span style="background-color:lightgreen">**personalidade jurídica**</span> é <b><u>atributo</u></b> de <b><u>toda e qualquer</u></b> <span style="background-color:yellow">**pessoa natural**</span> ou <span style="background-color:yellow">**pessoa jurídica**</span>;
 
+<table border="1" id="quadro-atencao-quem-possui-personalidade">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>
+   <b>Atenção</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>QUEM ALEM DA <u>PESSOA NATURAL</u> E DA <u>PESSOA JURÍDICA</u> POSSUI <u>PERSONALIDADE JURÍDICA</u></b>?</p>
+  <p style="text-align:justify">
+    Muita atenção ! Conforme irá se demonstrar adiante neste capítulo, além da  <u>PESSOA NATURAL</u> E DA <u>PESSOA JURÍDICA</u>, POSSUI <u>PERSONALIDADE JURÍDICA</u></b>, ainda que apenas FORMAL, o <span style="background-color:lightgreen"><b><u>NASCITURO</u></b></span> e o <span style="background-color:lightgreen"><b><u>NONDUM CONCEPTUS</u></b></span>.
+  </p>
+  <p>Isso pode ser cobrado em <span style="background-color:yellow"><b>PROVAS ORAIS</b></span> e de <span style="background-color:yellow"><b>CONCURSOS EM GERAL</b></span>.</p>
+</tr>
+</table>
+
 ### 1.2. Aquisição da personalidade jurídica
 
 ### Quem é a Pessoa Natural ?
