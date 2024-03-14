@@ -468,11 +468,14 @@
 </tr>
 </table>
 
-- Em relação a **AUSÊNCIA** da **CAPACIDADE DE FATO** ou **CAPACIDADE DE EXERCÍCIO**?
+- Em relação a **AUSÊNCIA** da **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**)?
   - Estaremos diante da **INCAPACIDADE CIVIL**, seja **ABSOLUTA** ou **RELATIVA**, o que será abordado nos próximos itens;
   - Em relação a esse tópico, registra-se a relevância da Lei n. 13.146, de 6 de julho de 2015 — Estatuto da Pessoa com Deficiência que entrou em vigor em 2016;
 
 ### 2.1. Incapacidade absoluta
+
+- A fata de **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**) traduz a FALTA DE APTIDÃO para PRATICAR <u>PESSOALMENTE</u> ATOS DA VIDA CIVIL;
+  - Para isso que existe a PREVISÃO legal da INCAPACIDADE;
 
 ### 2.2. Incapacidade relativa
 
