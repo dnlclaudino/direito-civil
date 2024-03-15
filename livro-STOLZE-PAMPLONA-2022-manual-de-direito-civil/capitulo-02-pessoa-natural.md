@@ -478,7 +478,7 @@
 - A falta de **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**) traduz a **FALTA DE APTIDÃO** para **PRATICAR <u>PESSOALMENTE</u>** **ATOS DA VIDA CIVIL**;
   - Em razão disso, existe a **PREVISÃO legal da <u>INCAPACIDADE</u>**;
 
-### INCAPACIDADE CIVIL e RESPONSABILIZAÇÃO PATRIMONIAL
+<center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e RESPONSABILIZAÇÃO PATRIMONIAL</span></h3></center>
 
 - <span style="background-color:lightgreen">**Incapacidade civil**</span> <span style="color:red;font-weight:bold">NÃO é excludente</span> <b><u>ABSOLUTA</u></b> de **RESPONSABILIZAÇÃO PATRIMONIAL**
   
@@ -498,11 +498,11 @@
 </tr>
 </table>
 
-### INCAPACIDADE CIVIL e OS CÓDIGOS DE 1916 e 2002
+<center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e OS CÓDIGOS DE 1916 e 2002</span></h3></center> 
 
 - Os <u>**ABSOLUTAMENTE INCAPAZES**</u> de exercer <b><u>pessoalmente</u></b> os **atos da vida civil** foram tradados conforme dispomos abaixo, nos códigos civis de 1916 e 2002:
 
-| Código Civil de 1916                 | Código Civil de 2002 |
+| Código Civil de 1916                 | Atual Código Civil de 2002 |
 | :----------------------------------- | :------------------- |
 |a) os menores de dezesseis anos;<br>b)<span style="color:red;font-weight:bold"> os loucos de todo o gênero;</span><br>c) <span style="color:red;font-weight:bold">os surdos-mudos, que não puderem exprimir a sua vontade</span>;<br>d) <span style="color:red;font-weight:bold">os ausentes, declarados tais por ato do juiz</span>.|a) os menores de dezesseis anos;<br>b) os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos;<br>c) os que, mesmo por causa transitória, não puderem exprimir sua vontade|
 
@@ -511,11 +511,45 @@
   - **Excluiu** os **surdos-mudos** impossibilitados de manifestar vontade do rol de <b><u>absolutamente incapazes</u></b>.
   - **Ausência** passou a figurar <u>em capítulo próprio</u> como **modalidade de presunção de morte**
 
-### INCAPACIDADE CIVIL e o ESTATUTO DA PESSOA COM DEFICIÊNCIA
+<center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e o ESTATUTO DA PESSOA COM DEFICIÊNCIA</span></h3></center> 
 
 - Com o surgimento da Lei n. 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), uma verdadeira <b><u>reconstrução jurídica</u></b> se operou;
   - O Estatuto <span style="color:red;font-weight:bold">retira</span> a <span style="background-color:lightgreen">**pessoa com deficiência**</span> da <span style="background-color:yellow"><b>categoria de incapaz</b></span>
+- a pessoa com deficiência não deve ser mais tecnicamente considerada **CIVILMENTE INCAPAZ**
+  - Entende-se por <span style="background-color:lightgreen">**PESSOA COM DEFICIÊNCIA**</span>, nos termos do **art. 2º**:
+    - Aquela pessoa que tem:
+      - <span style="background-color:orange">**Impedimento**</span> de <span style="background-color:yellow">**longo prazo**</span>;
+      - <span style="background-color:orange">**Impedimento**</span> de <span style="background-color:yellow">**natureza**</span>
+        - Física;
+        - Mental;
+        - Intelectual; ou
+        - Sensorial;
+- <span style="background-color:lightgreen">**A deficiência**</span> <span style="color:red;font-weight:bold">**NÃO AFETA**</span> a <span style="background-color:yellow"><b><u>plena</u> capacidade civil da pessoa</b></span>.
 
+<center><h3><span style="background-color:lightgreen">DIREITOS DA PESSOA COM DEFICIÊNCIA E CAPACIDADE CIVIL</span></h3></center> 
+
+- Nos termos do **art. 6**, do **Estatuto da Pessoa com Deficiência** (Lei n. 13.146/2015), a <span style="background-color:lightgreen">**PESSOA COM DEFICIÊNCIA**</span> pode, <span style="background-color:orange">**PESSOALMENTE**</span>, <span style="background-color:lightgreen">**exercer os seguintes direitos**</span>:
+ 
+|||
+|:---|:---:|
+|Casar-se|✅|
+|Constituir união estável|✅|
+|Exercer direitos sexuais|✅|
+|Exercer direitos reprodutivos|✅|
+|Exercer direito de **decidir sobre o número de filhos**|✅|
+|Exercer direito de **ter acesso a informações**<br>adequadas sobre **reprodução**|✅|
+|Exercer direito de **ter acesso a informações**<br>adequadas sobre **planejamento familiar**|✅|
+|Exercer direito de conservar sua fertilidade<br>(vedada a esterilização compulsória)|✅|
+|Exercer o direito à família|✅|
+|Exercer o direito à convivência familiar e comunitária|✅|
+|Exercer o direito à guarda|✅|
+|Exercer o direito à tutela|✅|
+|Exercer o direito à curatela|✅|
+|Exercer o direito à adoção, como adotante ou adotando|✅|
+
+- O  sistema jurídico tradicional brasileiro sempre tratou a INCAPACIDADE como consequência quase que inafasxtável da DEFICIÊNCIA;
+  - Essa visão <span style="color:red;font-weight:bold">NÃO MAIS SUBSISTE</span> no <b><u>atual</u></b> <span style="background-color:yellow">**sistema jurídico brasileiro**</span>;
+  - Uma REFLEXÃO mais detalhada se faz necessária para compreendermos, de fato, esse fenômeno;
 
 ### 2.2. Incapacidade relativa
 
