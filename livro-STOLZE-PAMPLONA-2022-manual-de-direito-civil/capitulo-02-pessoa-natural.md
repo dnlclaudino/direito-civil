@@ -35,6 +35,8 @@
     - Quais os DIREITOS DO NASCITURO ?
     - E Quais os DIREITOS DO NATIMORTO ?
   - Capacidade
+    - Capacidade e Legitimidade (CAPACIDADE ESPECÍFICA)
+    - Resumo dos Conceitos Envolvendo a Capacidade
     - Incapacidade absoluta
     - Incapacidade relativa
       - Os maiores de dezesseis e menores de dezoito anos
@@ -52,7 +54,6 @@
       - Morte simultânea (comoriência)
   - Índice Onomástico
   - Normas Jurídicas Relacionadas
-  - Julgados e Jurisprudência Relacionada
   - Referências Bibliográficas
 
 <!-- /TOC -->
@@ -265,14 +266,14 @@
 
 ### Quais os DIREITOS DO NASCITURO ?
 
-|Direito|Observações|
-|:---|:---|
-|**Direitos Personalíssimos**|o nascituro é titular de direitos personalíssimos (como o direito à vida, o direito à proteção pré-natal etc.)|
-|**Direito à Doação<br>Obrigação de recolher IMPOSTOS**|Pode receber doação, sem prejuízo do recolhimento do imposto de transmissão **intervivos**|
-|**Direito a legado e herança**|Pode ser beneficiado por legado e herança|
-|**Direito à vida**|o Código Penal tipifica o crime de aborto|
-|**Direito à Realização de Exame de DNA**|como decorrência da proteção conferida pelos direitos da personalidade, o NASCITURO tem direito à realização do exame de DNA, para efeito de aferição de paternidade[^STF-RECLAMACAO-2040-2002]|
-|**Direitos Gravídicos**|Todos os gastos necessários à proteção do feto.[^BRASIL-LEI-11804-2008]|
+| Direito                                                | Observações                                                                                                                                                                                     |
+| :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Direitos Personalíssimos**                           | o nascituro é titular de direitos personalíssimos (como o direito à vida, o direito à proteção pré-natal etc.)                                                                                  |
+| **Direito à Doação<br>Obrigação de recolher IMPOSTOS** | Pode receber doação, sem prejuízo do recolhimento do imposto de transmissão **intervivos**                                                                                                      |
+| **Direito a legado e herança**                         | Pode ser beneficiado por legado e herança                                                                                                                                                       |
+| **Direito à vida**                                     | o Código Penal tipifica o crime de aborto                                                                                                                                                       |
+| **Direito à Realização de Exame de DNA**               | como decorrência da proteção conferida pelos direitos da personalidade, o NASCITURO tem direito à realização do exame de DNA, para efeito de aferição de paternidade[^STF-RECLAMACAO-2040-2002] |
+| **Direitos Gravídicos**                                | Todos os gastos necessários à proteção do feto.[^BRASIL-LEI-11804-2008]                                                                                                                         |
 
 - No campo do DIREITO DO TRABALHO, o nascituro confere também estabilidade à gestante:
   - Independente da comunicação da gestação ao empregados;
@@ -468,14 +469,53 @@
 </tr>
 </table>
 
-- Em relação a **AUSÊNCIA** da **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**)?
-  - Estaremos diante da **INCAPACIDADE CIVIL**, seja **ABSOLUTA** ou **RELATIVA**, o que será abordado nos próximos itens;
-  - Em relação a esse tópico, registra-se a relevância da Lei n. 13.146, de 6 de julho de 2015 — Estatuto da Pessoa com Deficiência que entrou em vigor em 2016;
+- Caso não haja **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**):
+  - Estaremos diante da **INCAPACIDADE CIVIL** ou **INCAPACIDADE JURÍDICA**, seja **ABSOLUTA** ou **RELATIVA**, o que será abordado nos próximos itens;
+  - Em relação a esse tópico, registra-se relevantes disposições trazidas pela [Lei n. 13.146, de 6 de julho de 2015](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) — **Estatuto da Pessoa com Deficiência**, que entrou em vigor em 2016;
 
 ### 2.1. Incapacidade absoluta
 
-- A fata de **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**) traduz a FALTA DE APTIDÃO para PRATICAR <u>PESSOALMENTE</u> ATOS DA VIDA CIVIL;
-  - Para isso que existe a PREVISÃO legal da INCAPACIDADE;
+- A falta de **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**) traduz a **FALTA DE APTIDÃO** para **PRATICAR <u>PESSOALMENTE</u>** **ATOS DA VIDA CIVIL**;
+  - Em razão disso, existe a **PREVISÃO legal da <u>INCAPACIDADE</u>**;
+
+### INCAPACIDADE CIVIL e RESPONSABILIZAÇÃO PATRIMONIAL
+
+- <span style="background-color:lightgreen">**Incapacidade civil**</span> <span style="color:red;font-weight:bold">NÃO é excludente</span> <b><u>ABSOLUTA</u></b> de **RESPONSABILIZAÇÃO PATRIMONIAL**
+  
+<table border="1" id="quadro-norma-juridica-cc-2002-art-928">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-norma-juridica.png?raw=true" heigh="80" width="80"><br>
+   <b>Norma Jurídica<br>CC 2002, art. 928</b>
+  </td>
+  <td valign="top">
+  <p style="text-align:center"><b> TÍTULO IX - Da Responsabilidade Civil</b></p>
+  <p style="text-align:center"><b>CAPÍTULO I - Da Obrigação de Indenizar </b></p>
+  <p style="text-align:justify">
+    <b>Art. 928</b>. O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes.
+  </p>
+   </td>
+</tr>
+</table>
+
+### INCAPACIDADE CIVIL e OS CÓDIGOS DE 1916 e 2002
+
+- Os <u>**ABSOLUTAMENTE INCAPAZES**</u> de exercer <b><u>pessoalmente</u></b> os **atos da vida civil** foram tradados conforme dispomos abaixo, nos códigos civis de 1916 e 2002:
+
+| Código Civil de 1916                 | Código Civil de 2002 |
+| :----------------------------------- | :------------------- |
+|a) os menores de dezesseis anos;<br>b)<span style="color:red;font-weight:bold"> os loucos de todo o gênero;</span><br>c) <span style="color:red;font-weight:bold">os surdos-mudos, que não puderem exprimir a sua vontade</span>;<br>d) <span style="color:red;font-weight:bold">os ausentes, declarados tais por ato do juiz</span>.|a) os menores de dezesseis anos;<br>b) os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos;<br>c) os que, mesmo por causa transitória, não puderem exprimir sua vontade|
+
+- O novo código civil de 2002
+  - **Removeu** a expressão "os loucos de todo o gênero";
+  - **Excluiu** os **surdos-mudos** impossibilitados de manifestar vontade do rol de <b><u>absolutamente incapazes</u></b>.
+  - **Ausência** passou a figurar <u>em capítulo próprio</u> como **modalidade de presunção de morte**
+
+### INCAPACIDADE CIVIL e o ESTATUTO DA PESSOA COM DEFICIÊNCIA
+
+- Com o surgimento da Lei n. 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), uma verdadeira <b><u>reconstrução jurídica</u></b> se operou;
+  - O Estatuto <span style="color:red;font-weight:bold">retira</span> a <span style="background-color:lightgreen">**pessoa com deficiência**</span> da <span style="background-color:yellow"><b>categoria de incapaz</b></span>
+
 
 ### 2.2. Incapacidade relativa
 
