@@ -32,7 +32,11 @@
     - Quando Surge a Pessoa Natural ?
     - Existem CONDIÇÕES além do NASCIMENTO COM VIDA ?
     - O nascituro
+    - Quais os DIREITOS DO NASCITURO ?
+    - E Quais os DIREITOS DO NATIMORTO ?
   - Capacidade
+    - Capacidade e Legitimidade (CAPACIDADE ESPECÍFICA)
+    - Resumo dos Conceitos Envolvendo a Capacidade
     - Incapacidade absoluta
     - Incapacidade relativa
       - Os maiores de dezesseis e menores de dezoito anos
@@ -48,6 +52,8 @@
       - Ausência
       - Justificação de óbito
       - Morte simultânea (comoriência)
+  - Índice Onomástico
+  - Normas Jurídicas Relacionadas
   - Referências Bibliográficas
 
 <!-- /TOC -->
@@ -61,7 +67,6 @@
   - <span style="background-color:lightgreen"><b>Inicia-se</b></span> pelo estudo da <span style="background-color:yellow">**PESSOA NATURAL**</span>
 
 ### 1.1. Conceito
-
 <table border="1" id="quadro-conceito-personalidade-juridica">
 <tr>
   <td align="center" valign="top"width="140px" style="border-right-style:hidden">
@@ -261,14 +266,14 @@
 
 ### Quais os DIREITOS DO NASCITURO ?
 
-|Direito|Observações|
-|:---|:---|
-|**Direitos Personalíssimos**|o nascituro é titular de direitos personalíssimos (como o direito à vida, o direito à proteção pré-natal etc.)|
-|**Direito à Doação<br>Obrigação de recolher IMPOSTOS**|Pode receber doação, sem prejuízo do recolhimento do imposto de transmissão **intervivos**|
-|**Direito a legado e herança**|Pode ser beneficiado por legado e herança|
-|**Direito à vida**|o Código Penal tipifica o crime de aborto|
-|**Direito à Realização de Exame de DNA**|como decorrência da proteção conferida pelos direitos da personalidade, o NASCITURO tem direito à realização do exame de DNA, para efeito de aferição de paternidade[^STF-RECLAMACAO-2040-2002]|
-|**Direitos Gravídicos**|Todos os gastos necessários à proteção do feto.[^BRASIL-LEI-11804-2008]|
+| Direito                                                | Observações                                                                                                                                                                                     |
+| :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Direitos Personalíssimos**                           | o nascituro é titular de direitos personalíssimos (como o direito à vida, o direito à proteção pré-natal etc.)                                                                                  |
+| **Direito à Doação<br>Obrigação de recolher IMPOSTOS** | Pode receber doação, sem prejuízo do recolhimento do imposto de transmissão **intervivos**                                                                                                      |
+| **Direito a legado e herança**                         | Pode ser beneficiado por legado e herança                                                                                                                                                       |
+| **Direito à vida**                                     | o Código Penal tipifica o crime de aborto                                                                                                                                                       |
+| **Direito à Realização de Exame de DNA**               | como decorrência da proteção conferida pelos direitos da personalidade, o NASCITURO tem direito à realização do exame de DNA, para efeito de aferição de paternidade[^STF-RECLAMACAO-2040-2002] |
+| **Direitos Gravídicos**                                | Todos os gastos necessários à proteção do feto.[^BRASIL-LEI-11804-2008]                                                                                                                         |
 
 - No campo do DIREITO DO TRABALHO, o nascituro confere também estabilidade à gestante:
   - Independente da comunicação da gestação ao empregados;
@@ -289,7 +294,262 @@
 
 ## 2. Capacidade
 
+- Adquirida da **PERSONALIDADE JURÍDICA** a **PESSOA NATURAL** ou **PESSOA JURÍDICA** passa a ser **capaz de direitos e obrigações**;
+  - Surge daí o primeiro tipo de capacidade: A  <span style="background-color:lightgreen">**CAPACIDADE DE DIREITO** ou **CAPACIDADE JURÍDICA** ou **CAPACIDADE DE GOZO** ou **CAPACIDADE GENÉRICA**</span>;
+  - **TODO SER HUMANO** possui capacidade de **CAPACIDADE DE DIREITO (ou GOZO, ou JURÍDICA)** pois é atributo <b><u>inerente a sua condição</u></b>;
+
+<table border="1" id="quadro-conceito-capacidade-de-direito">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-conceito.png?raw=true" heigh="80" width="80"><br>
+   <b>Conceito</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>CAPACIDADE DE DIREITO ou CAPACIDADE JURÍDICA ou CAPACIDADE DE GOZO</b></p>
+  <p style="text-align:justify">
+    É a possibilidade de, após adquirida a PERSONALIDADE JURÍDICA pela pessoa natural ou pessoa jurídica, poder exercer direitos e contrair obrigações.
+  </p>
+</tr>
+</table>
+
+- Para **Mello (p.17)[^MELLO]**:
+
+<table border="1" id="quadro-conceito-capacidade-de-direito">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-conceito.png?raw=true" heigh="80" width="80"><br>
+   <b>Conceito</b>
+  </td>
+  <td valign="top">
+  <p style="text-align:center"><b>CAPACIDADE JURÍDICA</b></p>
+  <p style="text-align:justify">
+   <span style="background-color:lightgreen"> <b>CAPACIDADE JURÍDICA</b></span> é a <span style="background-color:lightgreen"><b>APTIDÃO</b></span> para ser <b>TITULAR</b> de uma <span style="background-color:orange"><b><u>SITUAÇÃO JURÍDICA</u></b></span> que o <b>ORDENAMENTO JURÍDICO</b> atribui:
+  </p>
+  <ul>
+    <li>Às <b>PESSOAS</b>;</li>
+    <li>À certos <b>ENTES</b>:</li>
+    <ul>
+      <li>Grupos de pessoas;</li>
+      <li>Universalidades PATRIMONIAIS;</li>
+    </ul>
+  </ul>
+</tr>
+</table>
+
+- Mesmo tendo **CAPACIDADE DE DIREITO** (ou **JURÍDICA** ou de **GOZO**):
+  - Algumas pessoas possuem **LIMITAÇÕES**:
+    - Orgânicas; e/ou
+    - Psicológicas;
+  - Que, em decorrência disso, reduz a APTIDÃO para:
+    - Exercer PESSOALMENTE seus direitos;
+    - Praticar PESSOALMENTE atos jurídicos;
+- Quando a PESSOA (NATURAL OU JURÍDICA):
+  - PODE:
+    - Exercer PESSOALMENTE seus direitos;
+    - Praticar PESSOALMENTE atos jurídicos;
+  - Ela possuirá <span style="background-color:lightgreen">**CAPACIDADE DE FATO** ou **CAPACIDADE DE EXERCÍCIO**</span>
+- Se <u>**toda pessoa**</u> é <b><u>capaz de direitos</u></b>, então a **CAPACIDADE DE DIREITO** equivale a **PERSONALIDADE**;
+  - Ninguém pode ser totalmente privado da **CAPACIDADE DE DIREITO**
+  - A **CAPACIDADE DE FATO** condiciona-se à **CAPACIDADE DE DIREITO**;
+    - Não se pode exercer um direito (capacidade de fato), sem ser capaz de adquiri-lo(capacidade de direito);
+    - O inverso é possível:
+      - Pode-se ser capaz de adquiri-lo(capacidade de direito), mas não poder EXERCÊ-LO PESSOALMENTE.
+- A impossibilidade do exercício de um direito ou da prática de um ato jurídico <span style="background-color:yellow">significa **INCAPACIDADE**</span>;
+
+### Capacidade e Legitimidade (CAPACIDADE ESPECÍFICA)
+
+- Capacidade e Legitimidade são conceitos diferentes;
+- Nem toda <b><u>PESSOA CAPAZ</u></b> pode estar <b><u>legitimada</u></b> para prática de um determinado <b><u>ATO JURÍDICO</u></b>
+- A **LEGITIMAÇÃO** traduz uma **CAPACIDADE ESPECÍFICA**.
+  - <u>**LEGITIMAÇÃO**</u> <u><span style="color:red;font-weight:bold">não se confunde</span></u> com as <b><u>HIPÓTESES LEGAIS GENÉRICAS</u></b> de <u>**INCAPACIDADE**</u>.
+- A <span style="background-color:lightgreen">**LEGITIMIDADE (CAPACIDADE ESPECÍFICA)**</span> surge
+  - <b><u>Em decorrência</u></b>:
+    - De um **INTERESSE** que <b>se quer preservar</b>
+    - Da **ESPECIAL SITUAÇÃO** de determinada pessoa que <u>se quer proteger</u>
+  - Que faz surgir
+    - <span style="background-color:yellow"><b>IMPEDIMENTOS CIRCUNSTANCIAIS</b></span> que impossibilitam a prática de um ato mesmo por uma pessoa capaz
+
+<table border="1" id="quadro-exemplo-capacidade-especifica-legitimidade1">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80"><br>
+   <b>Exemplo de<br><u>Capacidade<br>Específica</u></b>
+  </td>
+  <td valign="top">
+    <p style="text-align:justify">
+    Dois irmãos, da mesma forma, maiores e capazes, não poderão se casar entre si (art. 1.521, IV, do CC/2002)
+    </p>
+    <p>
+    O TUTOR encontra-se <span style="background-color:tomato">impedido de praticar o ato</span> por FALTA DE LEGITIMIDADE ou de CAPACIDADE ESPECÍFICA para o ato.
+    </p>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-exemplo-capacidade-especifica-legitimidade">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80"><br>
+   <b>Exemplo de<br><u>Capacidade<br>Específica</u></b>
+  </td>
+  <td valign="top">
+    <p style="text-align:justify">
+    Dois irmãos, da mesma forma, maiores e capazes, não poderão se casar entre si (art. 1.521, IV, do CC/2002)
+    </p>
+    <p>
+    OS IRMÃOS encontram-se <span style="background-color:tomato">impedidos de praticar o ato</span> por FALTA DE LEGITIMIDADE ou de CAPACIDADE ESPECÍFICA para o ato.
+    </p>
+   </td>
+</tr>
+</table>
+
+- Para Venosa (XXXX, p. XX):
+  - A **LEGITIMAÇÃO**:
+    - É um conceito é emprestado da **CIÊNCIA PROCESSUAL**;
+    - Consiste em se averiguar se uma pessoa, perante determinada situação jurídica, tem ou não capacidade para estabelecê-la;
+    - É uma <u>**FORMA ESPECÍFICA DE CAPACIDADE**</u> para determinados atos da vida civil;
+    - Legitimação é a **pertinência subjetiva** de um <b><u>titular de um direito</u></b> com relação a determinada <b><u>relação jurídica</u></b>;
+    - <span style="background-color:lightgreen"><b><u>A legitimação</u></b></span> é um plus que <span style="background-color:orange"><b><u>se agrega à capacidade</u></b></span> <span style="background-color:yellow"><b><u>em determinadas situações</u></b></span>;
+  - <span style="background-color:lightgreen">Está legitimado para agir</span> <u>**em determinada situação jurídica**</u> <span style="background-color:yellow">quem a lei determinar</span>;
+
+<table border="1" id="quadro-exemplo-legitimacao">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80"><br>
+   <b>Exemplo</b>
+  </td>
+  <td valign="top">
+   <p style="text-align:center"><b>ASCENDENTES NÃO PODEM VENDER AOS DESCENDENTES, SEM QUE OS OUTROS DESCENDENTES EXPRESSAMENTE CONSINTAM (Art. 1132, Código Civil de 2002)</b></p>
+   <p style="text-align:justify">
+   Se, por exemplo, um pai, que tem a <b>capacidade genérica</b> para praticar, em geral, <b>odos os atos da vida civil</b> (capacidade de fato ou de exercício), se pretender vender um bem a um filho, tendo outros filhos, não poderá fazê-lo se não conseguir a anuência dos demais filhos. Não estará ele, sem tal anuência, "legitimado" para tal alienação. 
+   </p>
+   <p>
+    <b>Art. 1.132</b> do Código Civil estatui: "os ascendentes não podem vender aos descendentes, sem que os outros descendentes expressamente consintam".
+   </p>
+   </td>
+</tr>
+</table>
+
+### Resumo dos Conceitos Envolvendo a Capacidade
+
+<table border="1" id="quadro-resumo-conceito-de-capacidade">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-resumo.png?raw=true" heigh="80" width="80"><br>
+   <b>Resumo dos<br>Conceitos de<br>Capacidade</b>
+  </td>
+  <td valign="top">
+   <ul>
+     <li><b>CAPACIDADE DE DIREITO</b> = É a capacidade genérica para exercer direitos e contrair obrigações decorrente da PERSONALIDADE JURÍDICA.</li>
+       <ul>
+        <li>Também chamada de:</li>
+          <ul>
+            <li>CAPACIDADE JURÍDICA</li>
+            <li>CAPACIDADE DE GOZO</li>
+            <li>CAPACIDADE GENÉRICA</li>
+          </ul>
+       </ul>
+     <li><b>CAPACIDADE DE FATO</b> = É a capacidade para exercer ou praticar PESSOALMENTE direitos e/ou contrair PESSOALMENTE obrigações</li>
+       <ul>
+        <li>Também chamada de:</li>
+          <ul>
+            <li>CAPACIDADE DE EXERCÍCIO</li>
+          </ul>
+       </ul>
+     <li><b>CAPACIDADE CIVIL PLENA</b> = CAPACIDADE DE DIREITO + CAPACIDADE DE FATO</li>
+     <li><b>CAPACIDADE ESPECÍFICA</b> = Impedimento circunstancial para prática de determinados ATOS JURÍDICOS</li>
+       <ul>
+        <li>Também chamada de:</li>
+          <ul>
+            <li>LEGITIMAÇÃO</li>
+          </ul>
+       </ul>
+   </ul>
+   </td>
+</tr>
+</table>
+
+- Caso não haja **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**):
+  - Estaremos diante da **INCAPACIDADE CIVIL** ou **INCAPACIDADE JURÍDICA**, seja **ABSOLUTA** ou **RELATIVA**, o que será abordado nos próximos itens;
+  - Em relação a esse tópico, registra-se relevantes disposições trazidas pela [Lei n. 13.146, de 6 de julho de 2015](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) — **Estatuto da Pessoa com Deficiência**, que entrou em vigor em 2016;
+
 ### 2.1. Incapacidade absoluta
+
+- A falta de **CAPACIDADE DE FATO** (ou **CAPACIDADE DE EXERCÍCIO**) traduz a **FALTA DE APTIDÃO** para **PRATICAR <u>PESSOALMENTE</u>** **ATOS DA VIDA CIVIL**;
+  - Em razão disso, existe a **PREVISÃO legal da <u>INCAPACIDADE</u>**;
+
+<center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e RESPONSABILIZAÇÃO PATRIMONIAL</span></h3></center>
+
+- <span style="background-color:lightgreen">**Incapacidade civil**</span> <span style="color:red;font-weight:bold">NÃO é excludente</span> <b><u>ABSOLUTA</u></b> de **RESPONSABILIZAÇÃO PATRIMONIAL**
+  
+<table border="1" id="quadro-norma-juridica-cc-2002-art-928">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-norma-juridica.png?raw=true" heigh="80" width="80"><br>
+   <b>Norma Jurídica<br>CC 2002, art. 928</b>
+  </td>
+  <td valign="top">
+  <p style="text-align:center"><b> TÍTULO IX - Da Responsabilidade Civil</b></p>
+  <p style="text-align:center"><b>CAPÍTULO I - Da Obrigação de Indenizar </b></p>
+  <p style="text-align:justify">
+    <b>Art. 928</b>. O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes.
+  </p>
+   </td>
+</tr>
+</table>
+
+<center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e OS CÓDIGOS DE 1916 e 2002</span></h3></center> 
+
+- Os <u>**ABSOLUTAMENTE INCAPAZES**</u> de exercer <b><u>pessoalmente</u></b> os **atos da vida civil** foram tradados conforme dispomos abaixo, nos códigos civis de 1916 e 2002:
+
+| Código Civil de 1916                 | Atual Código Civil de 2002 |
+| :----------------------------------- | :------------------- |
+|a) os menores de dezesseis anos;<br>b)<span style="color:red;font-weight:bold"> os loucos de todo o gênero;</span><br>c) <span style="color:red;font-weight:bold">os surdos-mudos, que não puderem exprimir a sua vontade</span>;<br>d) <span style="color:red;font-weight:bold">os ausentes, declarados tais por ato do juiz</span>.|a) os menores de dezesseis anos;<br>b) os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos;<br>c) os que, mesmo por causa transitória, não puderem exprimir sua vontade|
+
+- O novo código civil de 2002
+  - **Removeu** a expressão "os loucos de todo o gênero";
+  - **Excluiu** os **surdos-mudos** impossibilitados de manifestar vontade do rol de <b><u>absolutamente incapazes</u></b>.
+  - **Ausência** passou a figurar <u>em capítulo próprio</u> como **modalidade de presunção de morte**
+
+<center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e o ESTATUTO DA PESSOA COM DEFICIÊNCIA</span></h3></center> 
+
+- Com o surgimento da Lei n. 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), uma verdadeira <b><u>reconstrução jurídica</u></b> se operou;
+  - O Estatuto <span style="color:red;font-weight:bold">retira</span> a <span style="background-color:lightgreen">**pessoa com deficiência**</span> da <span style="background-color:yellow"><b>categoria de incapaz</b></span>
+- a pessoa com deficiência não deve ser mais tecnicamente considerada **CIVILMENTE INCAPAZ**
+  - Entende-se por <span style="background-color:lightgreen">**PESSOA COM DEFICIÊNCIA**</span>, nos termos do **art. 2º**:
+    - Aquela pessoa que tem:
+      - <span style="background-color:orange">**Impedimento**</span> de <span style="background-color:yellow">**longo prazo**</span>;
+      - <span style="background-color:orange">**Impedimento**</span> de <span style="background-color:yellow">**natureza**</span>
+        - Física;
+        - Mental;
+        - Intelectual; ou
+        - Sensorial;
+- <span style="background-color:lightgreen">**A deficiência**</span> <span style="color:red;font-weight:bold">**NÃO AFETA**</span> a <span style="background-color:yellow"><b><u>plena</u> capacidade civil da pessoa</b></span>.
+
+<center><h3><span style="background-color:lightgreen">DIREITOS DA PESSOA COM DEFICIÊNCIA E CAPACIDADE CIVIL</span></h3></center> 
+
+- Nos termos do **art. 6**, do **Estatuto da Pessoa com Deficiência** (Lei n. 13.146/2015), a <span style="background-color:lightgreen">**PESSOA COM DEFICIÊNCIA**</span> pode, <span style="background-color:orange">**PESSOALMENTE**</span>, <span style="background-color:lightgreen">**exercer os seguintes direitos**</span>:
+ 
+|||
+|:---|:---:|
+|Casar-se|✅|
+|Constituir união estável|✅|
+|Exercer direitos sexuais|✅|
+|Exercer direitos reprodutivos|✅|
+|Exercer direito de **decidir sobre o número de filhos**|✅|
+|Exercer direito de **ter acesso a informações**<br>adequadas sobre **reprodução**|✅|
+|Exercer direito de **ter acesso a informações**<br>adequadas sobre **planejamento familiar**|✅|
+|Exercer direito de conservar sua fertilidade<br>(vedada a esterilização compulsória)|✅|
+|Exercer o direito à família|✅|
+|Exercer o direito à convivência familiar e comunitária|✅|
+|Exercer o direito à guarda|✅|
+|Exercer o direito à tutela|✅|
+|Exercer o direito à curatela|✅|
+|Exercer o direito à adoção, como adotante ou adotando|✅|
+
+- O  sistema jurídico tradicional brasileiro sempre tratou a INCAPACIDADE como consequência quase que inafasxtável da DEFICIÊNCIA;
+  - Essa visão <span style="color:red;font-weight:bold">NÃO MAIS SUBSISTE</span> no <b><u>atual</u></b> <span style="background-color:yellow">**sistema jurídico brasileiro**</span>;
+  - Uma REFLEXÃO mais detalhada se faz necessária para compreendermos, de fato, esse fenômeno;
 
 ### 2.2. Incapacidade relativa
 
@@ -326,31 +586,18 @@
 
 ## Normas Jurídicas Relacionadas
 
+- Lei n. 13.146, de 6 de julho de 2015 — Estatuto da Pessoa com Deficiência;
+- Lei nº 11.804/2008: Disciplina o direito a alimentos gravídicos e a forma como ele será exercido e dá outras providências[^BRASIL-LEI-11804-2008]
 - Lei nº 10.406/2002: Código Civil brasileiro (CC 2002);
 - Lei nº 3.071/1916: Código Civil dos Estados Unidos do Brasil (CC 1016);
-- Lei nº 11.804/2008: Disciplina o direito a alimentos gravídicos e a forma como ele será exercido e dá outras providências[^BRASIL-LEI-11804-2008]
-
-## Julgados e Jurisprudência Relacionada
-
-- **Supremo Tribunal Federal (STF)**
-  - **Tipo de Processo**: Reclamação
-  - **Decisão**: 
-  - **Número**: 2040[^STF-RECLAMACAO-2040-2002]
-  - **Data do Julgamento**: 21/02/2002
-  - **Ementa**:
-
-- **Tribunal de Justiça do Rio Grande do Sul (TJRS)**
-  - **Tipo de Processo**: Apelação Cívil
-  - **Decisão**: ACORDÃO
-  - **Número**: 70002027910[^TJ-RS-APELACAO-CIVIL-70002027910-2001]
-  - **Data do Julgamento**: 28/03/2001
-  - **Ementa**: SEGURO-OBRIGATORIO. ACIDENTE. ABORTAMENTO. DIREITO A PERCEPCAO DA INDENIZACAO . O NASCITURO GOZA DE PERSONALIDADE JURIDICA DESDE A CONCEPCAO. O NASCIMENTO COM VIDA DIZ RESPEITO APENAS A CAPACIDADE DE EXERCICIO DE ALGUNS DIREITOS PATRIMONIAIS. APELACAO A QUE SE DA PROVIMENTO. (5 FLS.) (Apelação Cível, Nº 70002027910, Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Carlos Alberto Alvaro de Oliveira, Julgado em: 28-03-2001). Assunto: 1. JUROS DE MORA. TAXA. INCIDENCIA. TERMO INICIAL. DIES-A-QUO. 2. HONORARIOS ADVOCATICIOS. FIXACAO. PERCENTAGEM SOBRE O VALOR DA CONDENACAO. 3. ACIDENTE DE TRANSITO . ABORTO. NASCITURO. INDENIZACAO. NEXO CAUSAL. ONUS DA PROVA. 4. ACIDENTE DE TRANSITO. SEGURO OBRIGATORIO. ACAO DE COBRANCA. LEGITIMACAO PASSIVA.
 
 ## Referências Bibliográficas
 
 [^BRASIL-LEI-11804-2008]: BRASIL. Lei nº 11.804, de 05 de novembro de 2008. Disciplina o direito a alimentos gravídicos e a forma como ele será exercido e dá outras providências, 2008. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm Acesso em: 14 mar. 2024
 
 [^DINIZ]: DINIZ, Maria Helena. Código Civil Anotado, 5. ed., São Paulo: Saraiva, 1999, p. 9
+
+[^MELLO]: MELLO, Marcos Bernardes de. Achegas para uma Teoria das Capacidades em Direito, Revista de Direito Privado, São Paulo, p. 17.
 
 [^STF-RECLAMACAO-2040-2002]: Supremo Tribunal Federal no **caso “Glória Trevi”** (Rcl 2.040, Questão de Ordem na Reclamação, Rel. Min. Néri da Silveira, julgado em 21-2-2002, órgão julgador: Tribunal Pleno, DJ 27-6-2003, p. 31)
 
