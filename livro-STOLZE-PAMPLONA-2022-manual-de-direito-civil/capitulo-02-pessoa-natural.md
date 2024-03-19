@@ -510,6 +510,8 @@
   - **Removeu** a expressão "os loucos de todo o gênero";
   - **Excluiu** os **surdos-mudos** impossibilitados de manifestar vontade do rol de <b><u>absolutamente incapazes</u></b>.
   - **Ausência** passou a figurar <u>em capítulo próprio</u> como **modalidade de presunção de morte**
+- Para a **RELAÇÃO DE EMPREGO**:
+  - Estão proibidos de qualquer labor os menores de **dezesseis** anos, salvo na condição de aprendizes (em que se admite o trabalho a partir dos **quatorze** anos),
 
 <center><h3><span style="background-color:lightgreen">INCAPACIDADE CIVIL e o ESTATUTO DA PESSOA COM DEFICIÊNCIA</span></h3></center> 
 
@@ -532,8 +534,8 @@
  
 |||
 |:---|:---:|
-|Casar-se|✅|
-|Constituir união estável|✅|
+|Exercer o direito de casar-se|✅|
+|Exercer o direito de constituir união estável|✅|
 |Exercer direitos sexuais|✅|
 |Exercer direitos reprodutivos|✅|
 |Exercer direito de **decidir sobre o número de filhos**|✅|
@@ -547,11 +549,105 @@
 |Exercer o direito à curatela|✅|
 |Exercer o direito à adoção, como adotante ou adotando|✅|
 
-- O  sistema jurídico tradicional brasileiro sempre tratou a INCAPACIDADE como consequência quase que inafasxtável da DEFICIÊNCIA;
+<center><h3><span style="background-color:lightgreen">ANÁLISE DA INCAPACIDADE FACE AO ESTATUDO DA PESSOA COM DEFICIÊNCIA<br>(Lei 13.146/2015)</span></h3></center> 
+
+- O ESTATUTO <span style="color:red;font-weight:bold">retira</span> a **pessoa com deficiência** do rol de INCAPAZES (<span style="color:red;font-weight:bold">nem mesmo relativa!</span>)
+  - art. 6º da Lei 13.146/2015[^BRASIL-LEI-13146-2015], estabelece que "A deficiência não afeta a **plena capacidade civil** da pessoa (...)"
+  - Ora conforme citado na seção acima "[Resumo dos Conceitos Envolvendo a Capacidade](#2-capacidade)":
+    - **Capacidade Civil Plena** = **Capacidade de Direito** + **Capacidade de Fato** (ou de Exercício ou capacidade _em sentido estrito_)
+- Deve-se ter claro que:
+  - A <span style="background-color:lightgreen">**pessoa com deficiência**</span> <span style="background-color:yellow">**É LEGALMENTE CAPAZ !!!**</span>
+- O  **SISTEMA JURÍDICO <u>TRADICIONAL</u> BRASILEIRO** sempre tratou a <span style="background-color:yellow">INCAPACIDADE como consequência quase que inafastável da DEFICIÊNCIA</span>;
   - Essa visão <span style="color:red;font-weight:bold">NÃO MAIS SUBSISTE</span> no <b><u>atual</u></b> <span style="background-color:yellow">**sistema jurídico brasileiro**</span>;
-  - Uma REFLEXÃO mais detalhada se faz necessária para compreendermos, de fato, esse fenômeno;
+- Para **Stolze e Pamplona (2022, p. XX)**, tal mudança de paradigma prestigiou a DIGNIDADE DA PESSOA HUMANA;
+- Estranhamos a nova realidade de PLENA CAPACIDADE CIVIL e a existência ainda de INSTITUTOS ASSISTENCIAIS ESPECÍFICOS:
+  - Tomada de Decisão Apoiada;
+  - Curatela para prática de atos da vida civil (<span style="color:red;font-weight:bold">ainda que em situação extraordinária</span>);
+    - Relativa aos direitos de natureza patrimonial e negocial;
+- No âmbito do **DIREITO MATRIMONIAL**:
+  - O Estatuo da Pessoa com Deficiência:
+    - Revogou o art. 1.548, I, CC2002;
+    - Acrescentando o § 2º ao art. 1.550, CC2002
+      - A pessoa com deficiência mental ou intelectual, em idade núbil,poderá contrair núpcias, expressando sua vontade:
+        - Diretamente; ou
+        - Por meio do seu responsável; ou
+        - Por meio do seu curador;
+
+
+<table border="1" id="quadro-questao-de-concurso-capacidade-crianca">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-questao-de-prova.png?raw=true" heigh="80" width="80"><br>
+   <b>Questão de<br> Prova</b>
+  </td>
+  <td valign="top">
+    <p style="text-align:center"><b>Questão: Com a vigência do novo código civil(2002), apenas as CRIANÇAS agora são PLENAMENTE INCAPAZES?</b></p>
+    <p style="text-align:justify">
+    Trata-se de uma "pegadinha" do avaliador, haja vista que <b>CRIANÇA</b>, segundo o art. 2º do <b>ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA, Lei 8.069/1990)</b>, possui <b>ATÉ 12 anos <u>INCOMPLETOS</u></b> e o art. 3º do CC2002, estabelece que a <b>INCAPACIDADE ABSOLUTA</b> possui critério exclusivamente etário para <b><u>menores de 16 anos</u></b>.
+  </p>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-questao-de-concurso-capacidade-adolescente">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-questao-de-prova.png?raw=true" heigh="80" width="80"><br>
+   <b>Questão de<br> Prova</b>
+  </td>
+  <td valign="top">
+    <p style="text-align:center"><b>Questão: Com a vigência do novo código civil(2002), TODOS os ADOLESCENTES são RELATIVAMENTE INCAPAZES?</b></p>
+    <p style="text-align:justify">
+    Trata-se de uma "pegadinha" do avaliador, haja vista que <b>ADOLESCENTE</b>, segundo o art. 2º do <b>ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA, Lei 8.069/1990)</b>, possui ENTRE <b>12 anos <u>COMPLETOS</u></b> e <b>18 anos <u>COMPLETOS</u></b> e o art. 4º do CC2002, estabelece que:</P>
+   <ul>
+     <li><b>INCAPACIDADE ABSOLUTA</b> possui critério exclusivamente etário para <b><u>menores de 16 anos</u></b></li>
+    <li>A <b>INCAPACIDADE RELATIVA</b> para pessoas naturais entre 16 anos <b><u>COMPLETOS</u></b> e 18 anos <b><u>INCOMPLETOS</u></b></li>
+    <li>A <b>PLENA CAPACIDADE CIVIL</b> para as pessoas naturais a partir de 18 anos <b><u>COMPLETOS</u></b>.</li>
+   </ul>
+   </td>
+</tr>
+</table>
+
+<center><h3><span style="background-color:lightgreen">CONCLUSÃO DA SEÇÃO 2.1 (INCAPACIDADE ABSOLUTA)</span></h3></center> 
+
+- O STJ já decidiu que
+  - “A **INCAPACIDADE ABSOLUTA** para exercer pessoalmente os atos da vida civil <span style="color:red;font-weight:bold">se restringe aos menores de 16 (dezesseis) anos</span>, ou seja, <span style="background-color:lightgreen">**o critério**</span> <span style="background-color:yellow">**passou a ser apenas etário**</span>, <span style="color:red;font-weight:bold">**tendo sido eliminadas**</span> as <span style="background-color:orange">**hipóteses**</span> de <span style="background-color:yellow">**deficiência mental**</span> ou <span style="background-color:yellow">**intelectual**</span> anteriormente previstas no Código Civil”;
+  - Nesse sentido, [REsp: 1.927.423 - SP (2020/0232882-9), Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 27/04/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 04/05/2021](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002328829&dt_publicacao=04/05/2021)[^STJ-RESP-2021]
 
 ### 2.2. Incapacidade relativa
+
+#### A Incapacidade relativa e o Texto do Código Civil 1916
+
+- A **INCAPACIDADE RELATIVA** à <b><u>certos atos</u></b> ou à <b><u>maneira de os exercer</u></b> era tratada no **art. 6º** do **CC1916** de acordo com as seguintes hipóteses:
+  - (I) os maiores de dezesseis e <span style="background-color:yellow"><b><u>menores de vinte e um anos</u></b></span>;
+  - (II) os pródigos;
+  - (III) os silvícolas.
+
+#### A Incapacidade relativa e o Texto ORIGINAL do Código Civil 2002
+
+- A **INCAPACIDADE RELATIVA** à <b><u>certos atos</u></b> ou à <b><u>maneira de os exercer</u></b> era tratada no **art. 4º** do **CC2002** de acordo com as seguintes hipóteses:
+  - (I) os maiores de dezesseis e <span style="background-color:yellow"><b><u>menores de dezoito anos</u></b></span>;
+  - (II) os ébrios habituais, os viciados em tóxicos<span style="color:red;font-weight:bold">, e os que, por deficiência mental, tenham o discernimento reduzido</span>;
+  - (III) <span style="color:red;font-weight:bold">os excepcionais, sem desenvolvimento mental completo;</span>
+  - (IV) os pródigos.
+- O texto das alíneas acima que estão <span style="color:red;font-weight:bold">em vermelho</span> foram <span style="color:red;font-weight:bold">removidas</span>/<span style="color:blue;font-weight:bold">alteradas</span> pelo **Estatuto da Pessoa com Deficiência** (Lei 13.146/2015[^BRASIL-LEI-13146-2015])
+
+#### A Incapacidade relativa com a ALTERAÇÃO trazida pelo ESTATUDO DA PESSOA COM DEFICIÊNCIA
+
+- O **Estatuto da Pessoa com Deficiência** (Lei n. 13.146/2015[^BRASIL-LEI-13146-2015]) <u>**reconstruiu**</u> essa disciplina normativa.
+  - **MODIFICOU O INCISO II**
+    - <span style="color:red;font-weight:bold">**SUPRIMINDO** a menção à <u>deficiência mental</u> </span> — que passou a prever somente “os ébrios
+habituais e os viciados em tóxico”;
+  - **ALTEROU O INCISO III**
+    - De:
+      - “Excepcional sem desenvolvimento mental completo”;
+    - Para:
+      - Passou a tratar, <b><u>única</u></b> e <b><u>exclusivamente</u></b>, das pessoas que, “por causa transitória ou permanente, não possam exprimir a sua vontade”.
+- A **INCAPACIDADE RELATIVA** à <b><u>certos atos</u></b> ou à <b><u>maneira de os exercer</u></b> atualmente é tratado, com as alterações da Lei 13.146/2015, no **art. 4º** do **CC2002** de acordo com as seguintes hipóteses:
+  - (I) os maiores de dezesseis e <span style="background-color:yellow"><b><u>menores de dezoito anos</u></b></span>;
+  - (II) os ébrios habituais e os viciados em tóxicos;
+  - (III) aqueles que, por causa <b><u>transitória</u></b> <b><u>permanente</u></b>, <span style="background-color:tomato">**não puderem exprimir**</span> sua <span style="background-color:yellow">**vontade**</span>;
+  - (IV) os pródigos.
 
 #### 2.2.1. Os maiores de dezesseis e menores de dezoito anos
 
@@ -593,6 +689,8 @@
 
 ## Referências Bibliográficas
 
+[^BRASIL-LEI-13146-2015]: BRASIL. Lei nº 13.146, de 06 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência), 2015. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm Acesso em: 19 mar. 2024
+
 [^BRASIL-LEI-11804-2008]: BRASIL. Lei nº 11.804, de 05 de novembro de 2008. Disciplina o direito a alimentos gravídicos e a forma como ele será exercido e dá outras providências, 2008. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11804.htm Acesso em: 14 mar. 2024
 
 [^DINIZ]: DINIZ, Maria Helena. Código Civil Anotado, 5. ed., São Paulo: Saraiva, 1999, p. 9
@@ -602,5 +700,7 @@
 [^STF-RECLAMACAO-2040-2002]: Supremo Tribunal Federal no **caso “Glória Trevi”** (Rcl 2.040, Questão de Ordem na Reclamação, Rel. Min. Néri da Silveira, julgado em 21-2-2002, órgão julgador: Tribunal Pleno, DJ 27-6-2003, p. 31)
 
 [^TJ-RS-APELACAO-CIVIL-70002027910-2001]: RIO GRANDE DO SUL. Tribunal de Justiça do Rio Grande do Sul (sexta câmara cível). **Apelação Cível n. 70002027910**. SEGURO-OBRIGATORIO. ACIDENTE. ABORTAMENTO. DIREITO A PERCEPCAO DA INDENIZACAO . O NASCITURO GOZA DE PERSONALIDADE JURIDICA DESDE A CONCEPCAO. O NASCIMENTO COM VIDA DIZ RESPEITO APENAS A CAPACIDADE DE EXERCICIO DE ALGUNS DIREITOS PATRIMONIAIS. APELACAO A QUE SE DA PROVIMENTO. (5 FLS.) (Apelação Cível, Nº 70002027910, Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Carlos Alberto Alvaro de Oliveira, Julgado em: 28-03-2001). Assunto: 1. JUROS DE MORA. TAXA. INCIDENCIA. TERMO INICIAL. DIES-A-QUO. 2. HONORARIOS ADVOCATICIOS. FIXACAO. PERCENTAGEM SOBRE O VALOR DA CONDENACAO. 3. ACIDENTE DE TRANSITO . ABORTO. NASCITURO. INDENIZACAO. NEXO CAUSAL. ONUS DA PROVA. 4. ACIDENTE DE TRANSITO. SEGURO OBRIGATORIO. ACAO DE COBRANCA. LEGITIMACAO PASSIVA.Relator: Carlos Alberto Álvaro de Oliveira, julgado em 28/03/2001. Disponível em: https://www.tjrs.jus.br/novo/buscas-solr/?aba=jurisprudencia&q=&conteudo_busca=ementa_completa Acesso em: 14 mar. 2024
+
+[^STJ-RESP-2021]: STJ - [REsp: 1.927.423 - SP (2020/0232882-9)](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002328829&dt_publicacao=04/05/2021), Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 27/04/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 04/05/2021
 
 [^WALD]: WALD, Arnoldo. Curso de Direito Civil Brasileiro — Introdução e Parte Geral, 8. ed., São Paulo: Revista dos Tribunais, 1995, p. 120.
