@@ -294,6 +294,8 @@
 
 ## 2. Capacidade
 
+### CAPACIDADE DE DIREITO, JURÍDICA OU DE GOZO (CAPACIDADE GENÉRICA)
+
 - Adquirida da **PERSONALIDADE JURÍDICA** a **PESSOA NATURAL** ou **PESSOA JURÍDICA** passa a ser **capaz de direitos e obrigações**;
   - Surge daí o primeiro tipo de capacidade: A  <span style="background-color:lightgreen">**CAPACIDADE DE DIREITO** ou **CAPACIDADE JURÍDICA** ou **CAPACIDADE DE GOZO** ou **CAPACIDADE GENÉRICA**</span>;
   - **TODO SER HUMANO** possui capacidade de **CAPACIDADE DE DIREITO (ou GOZO, ou JURÍDICA)** pois é atributo <b><u>inerente a sua condição</u></b>;
@@ -342,12 +344,18 @@
     - Psicológicas;
   - Que, em decorrência disso, reduz a APTIDÃO para:
     - Exercer PESSOALMENTE seus direitos;
+
     - Praticar PESSOALMENTE atos jurídicos;
+
+### CAPACIDADE DE FATO OU CAPACIDADE DE EXERCÍCIO (CAPACIDADE EM SENTIDO ESTRITO)
+
+- É através da **CAPACIDADE DE FATO** que a **PESSOA NATURAL** é chamada para exercer uma **FUNÇÃO SOCIALMENTE ATIVA**;
 - Quando a PESSOA (NATURAL OU JURÍDICA):
   - PODE:
     - Exercer PESSOALMENTE seus direitos;
     - Praticar PESSOALMENTE atos jurídicos;
   - Ela possuirá <span style="background-color:lightgreen">**CAPACIDADE DE FATO** ou **CAPACIDADE DE EXERCÍCIO**</span>
+- É através da **CAPACIDADE DE FATO** que a **PESSOA NATURAL** é chamada para exercer uma **FUNÇÃO SOCIALMENTE ATIVA**;
 - Se <u>**toda pessoa**</u> é <b><u>capaz de direitos</u></b>, então a **CAPACIDADE DE DIREITO** equivale a **PERSONALIDADE**;
   - Ninguém pode ser totalmente privado da **CAPACIDADE DE DIREITO**
   - A **CAPACIDADE DE FATO** condiciona-se à **CAPACIDADE DE DIREITO**;
@@ -356,9 +364,9 @@
       - Pode-se ser capaz de adquiri-lo(capacidade de direito), mas não poder EXERCÊ-LO PESSOALMENTE.
 - A impossibilidade do exercício de um direito ou da prática de um ato jurídico <span style="background-color:yellow">significa **INCAPACIDADE**</span>;
 
-### Capacidade e Legitimidade (CAPACIDADE ESPECÍFICA)
+### LEGITIMIDADE (CAPACIDADE ESPECÍFICA)
 
-- Capacidade e Legitimidade são conceitos diferentes;
+- <span style="background-color:lightgreen">**CAPACIDADE**</span> e <span style="background-color:lightgreen">**LEGITIMIDADE**</span> são <span style="background-color:yellow"><span style="color:red;font-weight:bold">**conceitos diferentes**</span></span>;
 - Nem toda <b><u>PESSOA CAPAZ</u></b> pode estar <b><u>legitimada</u></b> para prática de um determinado <b><u>ATO JURÍDICO</u></b>
 - A **LEGITIMAÇÃO** traduz uma **CAPACIDADE ESPECÍFICA**.
   - <u>**LEGITIMAÇÃO**</u> <u><span style="color:red;font-weight:bold">não se confunde</span></u> com as <b><u>HIPÓTESES LEGAIS GENÉRICAS</u></b> de <u>**INCAPACIDADE**</u>.
@@ -454,6 +462,7 @@
         <li>Também chamada de:</li>
           <ul>
             <li>CAPACIDADE DE EXERCÍCIO</li>
+            <li>CAPACIDADE EM SENTIDO ESTRITO</li>
           </ul>
        </ul>
      <li><b>CAPACIDADE CIVIL PLENA</b> = CAPACIDADE DE DIREITO + CAPACIDADE DE FATO</li>
@@ -650,6 +659,15 @@ habituais e os viciados em tóxico”;
   - (IV) os pródigos.
 
 #### 2.2.1. Os maiores de dezesseis e menores de dezoito anos
+
+- Trata-se do inciso I, art. 4º do CC2002:
+  - Em termos de **CAPACIDADE CIVIL**, essa foi **UMA DAS MAIS IMPORTANTES MODIFICAÇÕES DO CÓDIGO CIVIL DE 2002**;
+  - A MAIORIDADE CIVIL foi equiparada a:
+    - MAIORIDADE PENAL;
+    - MAIORIDADE TRABALHISTA;
+- Tema Relevante É A Repercussão Do **Fim Da Capacidade Relativa**, pela Maioridade Civil e:
+  - Matérias Relacionadas com a Dependência Econômica
+  - Outros Microestatutos Próprios de codificação civil;
 
 #### 2.2.2. Os ébrios habituais e os viciados em tóxicos
 
