@@ -35,12 +35,19 @@
     - Quais os DIREITOS DO NASCITURO ?
     - E Quais os DIREITOS DO NATIMORTO ?
   - Capacidade
-    - Capacidade e Legitimidade (CAPACIDADE ESPECÍFICA)
+    - CAPACIDADE DE DIREITO, JURÍDICA OU DE GOZO (CAPACIDADE GENÉRICA)
+    - CAPACIDADE DE FATO OU CAPACIDADE DE EXERCÍCIO (CAPACIDADE EM SENTIDO ESTRITO)
+    - LEGITIMIDADE (CAPACIDADE ESPECÍFICA)
     - Resumo dos Conceitos Envolvendo a Capacidade
     - Incapacidade absoluta
-    - Incapacidade relativa
+    - INCAPACIDADE RELATIVA
+      - A Incapacidade relativa e o Texto do Código Civil 1916
+      - A Incapacidade relativa e o Texto ORIGINAL do Código Civil 2002
+      - A Incapacidade relativa com a ALTERAÇÃO trazida pelo ESTATUDO DA PESSOA COM DEFICIÊNCIA
       - Os maiores de dezesseis e menores de dezoito anos
       - Os ébrios habituais e os viciados em tóxicos
+        - a) ÉBRIOS HABITUAIS
+        - b) VICIADOS EM TÓXICOS-
       - Aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade
       - Os pródigos
       - Algumas palavras sobre a capacidade jurídica dos indígenas
@@ -623,7 +630,7 @@
   - “A **INCAPACIDADE ABSOLUTA** para exercer pessoalmente os atos da vida civil <span style="color:red;font-weight:bold">se restringe aos menores de 16 (dezesseis) anos</span>, ou seja, <span style="background-color:lightgreen">**o critério**</span> <span style="background-color:yellow">**passou a ser apenas etário**</span>, <span style="color:red;font-weight:bold">**tendo sido eliminadas**</span> as <span style="background-color:orange">**hipóteses**</span> de <span style="background-color:yellow">**deficiência mental**</span> ou <span style="background-color:yellow">**intelectual**</span> anteriormente previstas no Código Civil”;
   - Nesse sentido, [REsp: 1.927.423 - SP (2020/0232882-9), Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 27/04/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 04/05/2021](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002328829&dt_publicacao=04/05/2021)[^STJ-RESP-2021]
 
-### 2.2. Incapacidade relativa
+### 2.2. INCAPACIDADE RELATIVA
 
 #### A Incapacidade relativa e o Texto do Código Civil 1916
 
@@ -671,13 +678,191 @@ habituais e os viciados em tóxico”;
 
 #### 2.2.2. Os ébrios habituais e os viciados em tóxicos
 
-#### 2.2.3. Aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade
+##### a) ÉBRIOS HABITUAIS
+
+<center><h4>Considerações Preliminares Sobre a Embriaguez Habitual</h4></center>
+
+- Em todos os tempos, mediante a utilização de TÓXICOS, o homem PROCUROU FUGIR DA SUA REALIDADE:
+  - Dolorosa; e/ou
+  - Miserável; e/ou
+  - Conflituosa
+    - Seja individual;
+    - Seja social;
+- O uso de TÓXICOS visa
+  - Ao "rompimento dos freios"; ou
+  - Criar condições de fazê-lo ("romper os freios")
+- A PROBLEMÁTICA DA EMBRIAGUEZ ao longo do tempo foi tratada de diferentes maneiras;
+- A **EMBRIAGUEZ HABITUAL**:
+  - É um mal que destrói o tecido social, degradando moralmente o indivíduo;
+  - Corresponde **a forma crônica** de uma doença;
+  - É tradicionalmente vista como o cultivo de um vício evidentemente antissocial;
+
+<center><h4>A Embriaguez Habitual em Face ao Código Civil 2002</h4></center>
+
+- O Código Civil de 2002 elevou à **CATEGORIA** de **CAUSA DE INCAPACIDADE RELATIVA** a **EMBRIAGUEZ HABITUAL** que <b><u>REDUZA</u></b> a **CAPACIDADE DE DISCERNIMENTO** do HOMEM;
+
+<center><h4>A Embriaguez Habitual e o Direito do Trabalho</h4></center>
+
+- A **EMBRIAGUEZ HABITUAL**:
+  - É prevista na **CONSOLIDAÇÃO DAS LEIS DO TRABALHO** como
+    - Falta **GRAVE**;
+    - <span style="background-color:yellow">Causa ensejadora de **EXTINÇÃO POR JUSTA CAUSA** do **CONTRATO DE TRABALHO**</span>;
+    - Não importa se **DENTRO** ou **FORA** do ambiente de trabalho;
+  - A <span style="background-color:lightgreen">**JUSTIFICATIVA**</span> de **EXTINÇÃO POR JUSTA CAUSA** do **CONTRATO DE TRABALHO**
+    - É a inconveniência da manutenção de um empregado com comportamento censurável pela sociedade;
+- <span style="background-color:yellow">**CONTUDO**</span>, o reconhecimento da **EMBRIAGUEZ HABITUAL** como **PATOLOGIA** <span style="background-color:yellow">vem <b><u>afastando o RIGOR DA NORMA</u></b></span>, <span style="background-color:tomato">**SE**</span> <span style="color:red;font-weight:bold">não tiver acarretado prejuízo direto à comunidade</span>;
+  - Esse entendimento tem sido corroborado tanto pela **DOUTRINA** quanto pela **JURISPRUDÊNCIA** em razão de estudos sobre o alcoolismo que o caracterizam com DOENÇA e não como VÍCIO SOCIAL;
+- A <span style="background-color:lightgreen">**EMBRIAGUEZ HABITUAL OU PATOLÓGICA**</span>:
+  - <b><u>Pode ensejar</u></b> <span style="background-color:yellow">**SUSPENÇÃO DO CONTRATO DE INDIVIDUAL DE TRABALHO**</span> para <b><u>encaminhamento do empregado</u></b> à <span style="background-color:yellow">**PREVIDÊNCIA SOCIAL**</span> (conforme cada caso concreto);
+- A <span style="background-color:lightgreen">**EMBRIAGUEZ EM SERVIÇO**</span>:
+  - Exige **prudência** e **cautela** na sua eventual **necessidade de configuração**:
+    - O empregador deve evitar o USO DESPROPORCIONADO DA PUNIÇÃO;
+  - Existem casos em que a <span style="background-color:lightgreen">**EMBRIAGUEZ é OCASIONAL e/ou COM MOTIVO PLAUSÍVEL**</span> (confraternizações, por exemplo, ou falecimento dos pais, filhos, esposas, etc.)
+    - Nesses casos será mais RECOMENDÁVEL REPRIMÍ-LA com uma PUNIÇÃO MAIS LEVE;
+  - Existem casos em que <span style="background-color:lightgreen">**DETERMINADAS ATIVIDADES exigem a sobriedade para não colocar em risco à comunidade/sociedade**</span> (condução de veículos, por exemplo);
+    - Nesses casos, provada a alegação de estado etílico, torna-se <b><u>BASTANTE RAZOÁVEL</u></b> a <span style="background-color:yellow">**APLICAÇÃO DA SANSÃO MÁXIMA DA DESPEDIDA**</span>;  
+
+##### b) VICIADOS EM TÓXICOS- 
+
+- Segue a mesma linha de raciocínio a questão dos viciados em tóxicos;
+- É preciso analisar o **GRAU DE INTOXICAÇÃO** e **DEPENDÊNCIA** para aferir se haverá efetivamente **CONDIÇÕES PARA PRÁTICA** DE **ATOS DA VIDA CIVIL** e será o caso de **INTERNAMENTO PARA TRATAMENTO**;
+
+#### 2.2.3. Aqueles que, por <b><u>CAUSA</u></b> transitória ou permanente, não puderem exprimir sua vontade
+
+<center><h4>COMO O CÓDIGO CIVIL DE 1916 DISCIPLINAVA ESSA HIPÓTESE ?</h4></center>
+
+- Não era disciplinada
+
+<center><h4>COMO O CÓDIGO CIVIL DE 2002 (ORIGINAL) DISCIPLINAVA ESSA HIPÓTESE ?</h4></center>
+
+- Tratava como <span style="background-color:lightgreen">**ABSOLUTAMENTE INCAPAZ**</span>:
+  - Código Civil 2002 (Original)
+    - Art. 3º São **ABSOLUTAMENTE INCAPAZES** de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos. (Nova redação dada por Lei nº 13.146 de 06/07/2015)
+      - (...)
+      - II – os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos; <span style="background-color:yellow">**(Revogado por Lei nº 13.146 de 06/07/2015)**</span>
+
+<center><h4>COMO O CÓDIGO CIVIL DE 2002, ALTERADO PELO ESTATUTO DA PESSOA DEFICIÊNCIA ?</h4></center>
+
+- Trata-se de MODALIDADE de <span style="background-color:lightgreen">INCAPACIDADE RELATIVA</span>:
+  - Decorrente do **Estatuto da Pessoas com Deficiência** (Lei 13.146/2015)
+    - Esta norma **CONVERTEU** de **ABSOLUTAMENTE INCAPAZ** para **RELATIVAMENTE CAPAZ** aqueles que não podiam expressar sua **VONTADE**;
+    - A Lei nº 13.146 de 06/07/2015 revogou o inciso II, do art 3º da versão CC2002 original;
+
+<center><h4>CRÍTICAS ÀS MODIFICAÇÕES TRAZIDAS PELO ESTATUDO DA PESSOA COM DEFICIÊNCIA</h4></center>
+
+- Para **Gangliano e Plamplona Filho (2022, p. XX)**, não parece razoável tratar aqueles que não podem **MANIFESTAR SUA VONTATE** no rol dos <span style="background-color:yellow"><b><u>RELATIVAMENTE</u> CAPAZES</b></span>, seja por causa **TEMPORÁRIA** ou por causa **IMPEDITIVA**;
+  - <span style="color:red;font-weight:bold">Se NÃO PODEM EXPRESSAR VONTADE ALGUMA</span> a capacidade <span style="background-color:yellow">não poderia ser considerada <b><u>RELATIVA</u></b></span>;
+  - Melhor seria, segundo os autores:
+    - Em não inserí-la no CC2002;
+    - Tratar a situação em **dispositivo legal autônomo**;
 
 #### 2.2.4. Os pródigos
 
+<center><h4>CONSIDERAÇÕES PRELIMINARES A RESPEITOSA DA PRODIGALIDADE</h4></center>
+
+<table border="1" id="quadro-conceito-prodigo">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-conceito.png?raw=true" heigh="80" width="80"><br>
+   <b>Conceito</b>
+  </td>
+  <td valign="top">
+    <p style="text-align:center"><b>O QUE É UM PRÓDIGO? </b></p>
+    <p style="text-align:justify">
+      <b><u>PRÓDIGO</u></b> é aquele que <b><u>desordenadamente</u></b> gasta e destrói a sua fazenda, <b><u>reduzindo-se à miséria</u></b> por sua própria culpa.
+    </p>
+   </td>
+</tr>
+</table>
+
+- Trata-se de um <span style="background-color:lightgreen">**DESVIO DE COMPORTAMENTO**</span>:
+  - Que termina por <span style="background-color:orange">**prejudicar**</span> não só o **PRÓPRIO INDIVÍDUO**, mas também a **FAMÍLIA** e a **SOCIEDADE**;
+  - Que pode fazer com que o INDIVÍDUO, por dilapidar descontroladamente seu patrimônio:
+    - Venha precisar de AMPARO (<span style="background-color:yellow">**PENSÃO, INCLUSIVE 😱**</span>):
+      - De um PARENTE PRÓXIMO;
+      - Do próprio ESTADO;
+
+<center><h4>ORIGEM DA PRODIGALIDADE COMO CAUSA DE DIMINUIÇÃO DA CAPACIDADE (_CAPITITS DIMINUTIO_)</h4></center>
+
+- A **PRODIGALIDADE** como <b><u>causa de diminuição da capacidade</u></b> (**_capitits diminutio_**) tem origem no **DIREITO ROMANO**:
+  - O patrimônio **era visto** pelo Direito Romano como uma **COPROPRIEDADE DA FAMÍLIA**;
+  - **Era visto** como prejudicial ao **INTERESSE DO GRUPO FAMILIAR** a dilapidação da propriedade da família;
+
+<center><h4>A PRODIGALIDADE FACE AO CÓDIGO CIVIL DE 2002</h4></center>
+
+<table border="1" id="quadro-atencao-os-codigos-1916-2002-e-o-conceito-prodigo">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>
+   <b>Atenção</b>
+  </td>
+  <td valign="top">
+    <p style="text-align:center"><b>O QUE É UM PRÓDIGO? </b></p>
+    <p style="text-align:justify">
+      Nem o <b><u>Código Civil de 1916</u></b>, nem o <b><u>Código Civil de 2002</u></b> definiram <b><u>O QUE É A PRODIGALIDADE</u></b>.
+    </p>
+   </td>
+</tr>
+</table>
+
+<center><h4>PROCEDIMENTOS E CONSEQUÊNCIAS DA INCAPACIDADE RELATIVA DECORRENTE DE PRODIGALIDADE</h4></center>
+
+- Para declarar a **INCAPACIDADE RELATIVA** decorrente de prodigalidade, usa-se um **PROCESSO DE INTERDIÇÃO**, regulada pelo CÓDIGO DE PROCESSO CIVIL nos **arts. 747 e 748**;
+  - Será nomeado um **CURADOR** para o interditado;
+  - O <span style="background-color:lightgreen">**CURADOR**</span>
+    - <span style="background-color:yellow">**DEVERÁ ATUAR APENAS**</span>
+      - Em questões de cunho NEGOCIAL, PATRIMONIAL e REPRESENTAÇÃO JUDICIAL (demandar e ser demandado):
+      - Exemplo: emprestar, transigir, dar em quitação, alienar, hipotecar, demandar e ser demandado
+    - <span style="background-color:yellow">**NÃO ATUARÁ**</span>
+      - Em questões que envolvam ATOS DE MERA ADMINISTRAÇÃO
+- Admite-se, por força de interpretação sistemática, a <span style="background-color:yellow">**AUTOINTERDIÇÃO**</span>, nos termos do **art. 1.768 do Código Civil de 2002**, modificado pelo **Estatuto da Pessoa com Deficiência** (Lei. 13.146/2015)
+
 #### 2.2.5. Algumas palavras sobre a capacidade jurídica dos indígenas
 
+- <span style="background-color:yellow">(... páginas 106 a 108)</span>
+
 ### 2.3. Suprimento da incapacidade (representação e assistência)
+
+<center><b>Figura:</b> Formas de suprir a INCAPACIDADE</center>
+
+<div align="center">
+
+```mermaid
+flowchart LR;
+SI["<b>FORMAS de Suprir<br>da INCAPACIDADE</b>"]
+SI-->IA["Na Incapacidade<br><b>ABSOLUTA</b>"]
+SI-->IR["Na Incapacidade<br><b>RELATIVA</b>"]
+
+
+IA-->R["Forma de Suprir:<br><b>REPRESENTAÇÃO</b>"]
+IR-->A["Forma de Suprir:<br><b>ASSISTÊNCIA</b>"]
+
+R-->R1["Representação<br>LEGAL"]
+R1-->P["Pais"]
+R1-->T["Tutores"]
+R1-->C["Curadores"]
+R-->R2["Representação<br>VOLUNTÁRIA<br>ou<br>CONVENCIONAL"]
+```
+</div>
+
+<center><b>Fonte</b>: Próprio autor desta resenha</center>
+
+<center><h4><span style="background-color:lightgreen">NO CASO DA INCAPACIDADE ABSOLUTA</span></h4></center>
+
+- Nesse caso, supre-se a incapacidade através da REPRESENTAÇÃO;
+
+#### Código 1916
+
+- Os ABSOLUTAMENTE INCAPAZES 
+
+#### Código 2002
+
+#### Código 2002 (Após o Estatuto da Pessoa com Deficiência)
+
+<center><h4><span style="background-color:lightgreen">NO CASO DA INCAPACIDADE RELATIVA</span></h4></center>
+
+- Nesse caso, supre-se a incapacidade através da CURATELA;
+
 
 ### 3. Emancipação
 
